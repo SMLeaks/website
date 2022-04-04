@@ -67,6 +67,6 @@ jobs:
           commit-message: Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}
           source-directory: build
           destination-github-username: smleaks
-          destination-repository-name: website-new-development
+          destination-repository-name: website-new-production
           user-email: 41898282+github-actions[bot]@users.noreply.github.com
           target-branch: main

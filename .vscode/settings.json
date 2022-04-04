@@ -1,5 +1,5 @@
 {
     "conventionalCommits.scopes": [
-        "workspaces/build-release"
+        "workflows/build-release"
     ]
 }

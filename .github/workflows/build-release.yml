@@ -47,23 +47,26 @@ jobs:
         run: yarn --frozen-lockfile --prod
       - name: Build
         run: yarn build
-      - name: Commit
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}" -a
-      - name: Push Build Development
-        uses: ad-m/github-push-action@master
+      - name: Push Build [Development]
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          branch: main
-          repository: SMLeaks/website-new-development
-          directory: build/
-      - name: Push Build Production
-        uses: ad-m/github-push-action@master
+          commit-message: Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}
+          source-directory: build
+          destination-github-username: smleaks
+          destination-repository-name: website-new-development
+          user-email: 41898282+github-actions[bot]@users.noreply.github.com
+          target-branch: main
+      - name: Push Build [Production]
+        uses: cpina/github-action-push-to-another-repository@main
         if: ${{needs.release.outputs.release_created}}
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          branch: main
-          repository: SMLeaks/website-new-development
-          directory: build/
+          commit-message: Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}
+          source-directory: build
+          destination-github-username: smleaks
+          destination-repository-name: website-new-development
+          user-email: 41898282+github-actions[bot]@users.noreply.github.com
+          target-branch: main

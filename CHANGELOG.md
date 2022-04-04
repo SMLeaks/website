@@ -1,6 +1,6 @@
 # Changelog
 
-## [4.1.0-alpha](https://github.com/SMLeaks/website-new/compare/v4.0.0-alpha...v4.1.0-alpha) (2022-04-04)
+## [4.0.0](https://github.com/SMLeaks/website-new/compare/v4.0.0-alpha...v4.0.0) (2022-04-04)
 
 
 ### Features

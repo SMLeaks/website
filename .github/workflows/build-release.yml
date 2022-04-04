@@ -29,6 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: release
     steps:
+      - uses: mstachniuk/ci-skip@v1
+        with:
+          fail-fast: true
       - name: Setup NodeJS 16
         uses: actions/setup-node@v3.1.0
         with:

@@ -1,7 +1,7 @@
 ---
 title: Home
-sidebar_position: 1
 id: home
+sidebar_position: 1
 ---
 
 ## Welcome to SMLeaks!

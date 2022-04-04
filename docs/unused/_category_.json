@@ -1,5 +1,6 @@
 {
  "label": "Unused Content",
  "collapsible": true,
- "collapsed": false   
+ "collapsed": true,
+ "position": 2
 }

@@ -33,7 +33,7 @@ config.presets = [
     ({
       docs: {
         sidebarPath: require.resolve('./sidebars.js'),
-        editUrl: `https://github.com/${config.organizationName}/${config.projectName}`,
+        editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main`,
         routeBasePath: '/',
         showLastUpdateTime: true,
         showLastUpdateAuthor: true,
@@ -41,7 +41,7 @@ config.presets = [
       blog: {
         showReadingTime: true,
         // Please change this to your repo.
-        editUrl: `https://github.com/${config.organizationName}/${config.projectName}/devblogs`,
+        editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main/devblogs`,
         path: './devblogs',
         routeBasePath: '/devblog',
       },

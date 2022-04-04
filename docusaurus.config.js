@@ -44,6 +44,9 @@ config.presets = [
         editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main/devblogs`,
         path: './devblogs',
         routeBasePath: '/devblog',
+        blogSidebarTitle: 'Devblogs',
+        blogSidebarCount: 'ALL',
+        postsPerPage: 1
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),

@@ -46,7 +46,8 @@ config.presets = [
         routeBasePath: '/devblog',
         blogSidebarTitle: 'Devblogs',
         blogSidebarCount: 'ALL',
-        postsPerPage: 5
+        postsPerPage: 5,
+        blogTitle: 'Devblogs'
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),

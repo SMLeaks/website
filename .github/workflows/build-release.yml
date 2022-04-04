@@ -39,6 +39,7 @@ jobs:
         uses: actions/setup-node@v3.1.0
         with:
           node-version: 16
+          cache: 'yarn'
       - uses: actions/checkout@v3
         with:
           persist-credentials: false

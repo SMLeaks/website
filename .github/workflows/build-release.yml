@@ -35,15 +35,15 @@ jobs:
       - uses: mstachniuk/ci-skip@v1
         with:
           fail-fast: true
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - name: Setup NodeJS 16
         uses: actions/setup-node@v3.1.0
         with:
           node-version: 16
           cache: 'yarn'
-      - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
       - name: Install Dependencies
         run: yarn --frozen-lockfile --prod
       - name: Build

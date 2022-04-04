@@ -6,6 +6,9 @@ name: Build & Release
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - "CHANGELOG.md"
+      - "README.md"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -37,18 +40,30 @@ jobs:
         with:
           node-version: 16
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - name: Install Dependencies
         run: yarn --frozen-lockfile --prod
       - name: Build
         run: yarn build
-      - name: Upload Development Build
-        uses: actions/upload-artifact@v3.0.0
+      - name: Commit
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}" -a
+      - name: Push Build Development
+        uses: ad-m/github-push-action@master
         with:
-          name: development-build-v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}.zip
-          path: build/
-      - name: Upload Production Build
-        uses: actions/upload-artifact@v3.0.0
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          branch: main
+          repository: SMLeaks/website-new-development
+          directory: build/
+      - name: Push Build Production
+        uses: ad-m/github-push-action@master
         if: ${{needs.release.outputs.release_created}}
         with:
-          name: production-build-v${{needs.release.outputs.version}}.zip
-          path: build/
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          branch: main
+          repository: SMLeaks/website-new-development
+          directory: build/

@@ -53,7 +53,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                 qna: [
                   {
                     q: 'Why is Scrap Mechanic lagging sometimes? Are you planning on fixing the lag when 2 large creations touch?',
-                    a: "We had an issue answering this question since it's pretty complex and hard to explain in depth without getting too technical. So we are glad it was brought up here, so we can try and give a longer and more in-depth response. First, it's important to say that Scrap Mechanic is a very difficult game to make. There are no limits to what you can do. At the same time, the game has physics and multiplayer as well. So it's a game that can always be improved and optimized. But since the beginning, we have been determined to grab the bull by the horns and stick to this path to create something unique and interesting. Scrap Mechanic is a game that runs on our own game engine. This is great since it gives us full control over a lot of things. But physics is running on a physics engine called Bullet Physics. Bullet Physics is an external, open-source physics engine that does all the physics calculations in Scrap Mechanic. The main issue right now is calculating the responses from constraints like the bearings and suspensions as well as from collisions. At the moment, all of these are taken into account at the same level of quality as when calculating the responses for each rigid composition of parts. This makes collision checks expensive, especially on complex creations with a lot of bearings and suspensions. When a complex creation merges with another complex creation through a collision, that’s when the lag can kick in. The way we could fix this as we move forward would be by digging into bullet physics and seeing if we could make less important physics calculations run less expensive calculations instead of having them all running on the same level as it is now. This is, however, a process that would take a lot of time to implement and would most likely slow down other content updates. Our priority now is to finish the next chapter. After that, we will most likely dig into this and see what we can do to push back the lag. The good news is that there are things we can still do to make it better! The bad news is that it will slow down development on other parts of the game. We know that many players would love us to dig into this and we hear you loud and clear.",
+                    a: "We had an issue answering this question since it's pretty complex and hard to explain in depth without getting too technical. So we are glad it was brought up here, so we can try and give a longer and more in-depth response. First, it's important to say that Scrap Mechanic is a very difficult game to make. There are no limits to what you can do. At the same time, the game has physics and multiplayer as well. So it's a game that can always be improved and optimized. But since the beginning, we have been determined to grab the bull by the horns and stick to this path to create something unique and interesting. Scrap Mechanic is a game that runs on our own game engine. This is great since it gives us full control over a lot of things. But physics is running on a physics engine called Bullet Physics. Bullet Physics is an external, open-source physics engine that does all the physics calculations in Scrap Mechanic. The main issue right now is calculating the responses from constraints like the bearings and suspensions as well as from collisions. At the moment, all of these are taken into account at the same level of quality as when calculating the responses for each rigid composition of parts. This makes collision checks expensive, especially on complex creations with a lot of bearings and suspensions. When a complex creation merges with another complex creation through a collision, that's when the lag can kick in. The way we could fix this as we move forward would be by digging into bullet physics and seeing if we could make less important physics calculations run less expensive calculations instead of having them all running on the same level as it is now. This is, however, a process that would take a lot of time to implement and would most likely slow down other content updates. Our priority now is to finish the next chapter. After that, we will most likely dig into this and see what we can do to push back the lag. The good news is that there are things we can still do to make it better! The bad news is that it will slow down development on other parts of the game. We know that many players would love us to dig into this and we hear you loud and clear.",
                   },
                   {
                     q: 'When are you going to make the size of the creative mode map the same as the Survival one?',
@@ -101,15 +101,15 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                   },
                   {
                     q: 'Will there be Scrap Mechanic merch?',
-                    a: 'We might look into merch in the future. Let us know in the comments below what kind of merch you would like to see. We’d be happy to get some of your requests in the comments below.',
+                    a: "We might look into merch in the future. Let us know in the comments below what kind of merch you would like to see. We'd be happy to get some of your requests in the comments below.",
                   },
                   {
                     q: 'How much progress have you made on the optimization of the game? Will there be more and more detailed physics settings?',
-                    a: "Since release, we've made a ton of optimizations and still have a way to go. The introduction to the gameplay option in the last update is a start to give the player more control over the game’s performance.",
+                    a: "Since release, we've made a ton of optimizations and still have a way to go. The introduction to the gameplay option in the last update is a start to give the player more control over the game's performance.",
                   },
                   {
                     q: 'Will we ever be able to free Caged Farmers for real?',
-                    a: 'Well, you free them by bringing them back to the Farmer hideout. They unlock the cages behind closed doors after that...or so we hope.',
+                    a: 'Well, you free them by bringing them back to the Farmer hideout. They unlock the cages behind closed doors after that... or so we hope.',
                   },
                   {
                     q: 'Are you planning to fix sliding wheels? (when I have my car on any angle, it slides like butter on wheels)',
@@ -180,7 +180,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                   },
                   {
                     q: (<a key="scrapman_tweet" href="https://twitter.com/ScrapManYT/status/1394894719671422976">Draggable wedges when?</a>),
-                    a: 'We have gotten pretty far on draggable wedges. What we have to work out now is how they will work when you pick them up after having placed them. That is because they don’t scale and work like normal blocks. We might show them in action in the next devblog.',
+                    a: "We have gotten pretty far on draggable wedges. What we have to work out now is how they will work when you pick them up after having placed them. That is because they don't scale and work like normal blocks. We might show them in action in the next devblog.",
                   },
                   {
                     q: 'Will there be a Mac version of the game?',
@@ -245,7 +245,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                 ],
               },
               {
-                name: 'Scrap Mechanic’s development',
+                name: "Scrap Mechanic's development",
                 qna: [
                   {
                     q: 'How did you come up with the idea for the game?',
@@ -280,7 +280,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                     a: 'Hopefully soon. Right now, we are waiting for a few things to be more presentable. We can, however, say that it will be a pretty exciting devblog. We will show underground digging for the first time!',
                   },
                   {
-                    q: 'How come you’ve been so inactive on Twitter for the past 2 months?',
+                    q: "How come you've been so inactive on Twitter for the past 2 months?",
                     a: 'Usually when we go silent, it means that we are pretty busy with internal deadlines. But we will take it to heart and try to post more during these times.',
                   },
                   {

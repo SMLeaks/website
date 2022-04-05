@@ -86,12 +86,12 @@ config.themeConfig = {
       content: "#E67E22"
     }
   ],
-  image: 'images/logfile/image.png',
+  image: 'favicon.png',
   navbar: {
     title: config.title,
     logo: {
       alt: `${config.title} Logo`,
-      src: 'images/logfiles/image.png',
+      src: 'favicon.png',
     },
     items: [
       {

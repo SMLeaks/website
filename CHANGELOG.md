@@ -1,5 +1,31 @@
 # Changelog
 
+## [5.1.0](https://github.com/SMLeaks/website-new/compare/v5.0.0...v5.1.0) (2022-04-05)
+
+
+### Features
+
+* move all pages into folders with their assets ([890076c](https://github.com/SMLeaks/website-new/commit/890076cf0e6f25b16ed19eecf4a085007a74d45d))
+* move images/content below headings ([47830ac](https://github.com/SMLeaks/website-new/commit/47830ace216a8ae31b42936431d8410b8bb68947))
+* update unused tiles asset icons ([01771ad](https://github.com/SMLeaks/website-new/commit/01771ad84e8bdea2e5d322435348e7258684b4a9))
+
+
+### Bug Fixes
+
+* fix dark mode flash ([57c38ff](https://github.com/SMLeaks/website-new/commit/57c38fffea8cfc29e1cfd7929212aff9b44ecf67))
+* fix dark mode flash fix ([65d27c4](https://github.com/SMLeaks/website-new/commit/65d27c4c9e3835aa304c6fc13a9bfa5b75bedeba))
+* fix developer qna question inline links ([b8aaae1](https://github.com/SMLeaks/website-new/commit/b8aaae17d365a744ac1f3290e21e7d8db5f4dd32))
+
+
+### Reverts
+
+* remove dark mode flash fix ([b6b7157](https://github.com/SMLeaks/website-new/commit/b6b71578aea77acc0e592ef15f876da7951432a7))
+
+
+### Miscellaneous Chores
+
+* release 5.1.0 ([10962d5](https://github.com/SMLeaks/website-new/commit/10962d57ac4c839cb4d6c0c110b2080c54925756))
+
 ## [5.0.0](https://github.com/SMLeaks/website-new/compare/v4.0.0...v5.0.0) (2022-04-05)
 
 

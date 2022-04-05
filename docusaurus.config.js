@@ -26,6 +26,9 @@ const config = {
   favicon: 'favicon.ico',
   organizationName: 'SMLeaks',
   projectName: 'website-new',
+  scripts: [
+    '/js/noflash.js'
+  ]
 };
 
 config.presets = [
@@ -70,7 +73,7 @@ if(process.env.GITHUB_SHA) {
 /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 config.themeConfig = {
   colorMode: {
-    defaultMode: 'dark'
+    defaultMode: 'dark',
   },
   metadata: [
     {

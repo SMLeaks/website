@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+process.env.VERSION ||= require('fs').readFileSync('./version.txt').toString()
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SMLeaks',
@@ -40,14 +42,13 @@ config.presets = [
       },
       blog: {
         showReadingTime: true,
-        // Please change this to your repo.
         editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main/devblogs`,
         path: './devblogs',
         routeBasePath: '/devblog',
-        blogSidebarTitle: 'Devblogs',
+        blogSidebarTitle: '📚 Devblogs',
         blogSidebarCount: 'ALL',
         postsPerPage: 5,
-        blogTitle: 'Devblogs'
+        blogTitle: '📚 Devblogs'
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),
@@ -55,6 +56,16 @@ config.presets = [
     }),
   ],
 ]
+
+let copyright = `Copyright © ${new Date().getFullYear()} ${config.title}` 
+
+if(process.env.VERSION) {
+  copyright += ` | v${process.env.VERSION.trim()}`
+}
+if(process.env.GITHUB_SHA) {
+  copyright += (process.env.VERSION ? '+' : ' | Build ')
+  copyright += process.env.GITHUB_SHA.slice(0,7)
+}
 
 /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 config.themeConfig = {
@@ -101,7 +112,7 @@ config.themeConfig = {
   },
   footer: {
     style: 'light',
-    copyright: `Copyright © ${new Date().getFullYear()} ${config.title}`
+    copyright: copyright
   },
   prism: {
     theme: lightCodeTheme,

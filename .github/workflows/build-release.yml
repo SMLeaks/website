@@ -52,6 +52,8 @@ jobs:
           path: .docusaurus
           key: docusaurus-build-cache
       - name: Build
+        env:
+          GITHUB_SHA: ${{ github.sha }}
         run: yarn build
       - name: Push Build [Development]
         uses: cpina/github-action-push-to-another-repository@main

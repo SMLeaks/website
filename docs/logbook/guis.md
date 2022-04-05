@@ -8,17 +8,17 @@ id: guis
 Most of this stuff has been added to the game in the 0.4.8 update.
 :::
 
-![](/images/logbook/gui.png)
-
 ## Logbook GUI
 > Found by FutureMapper
 
-![](/images/logbook/waypoint-gui.png)
+![](/images/logbook/gui.png)
 
 ## Waypoint GUI
 > Found by FutureMapper
 
-![](/images/logbook/gui-mockup.png)
+![](/images/logbook/waypoint-gui.png)
 
 ## Logbook GUI Mockup
 > Created by rockstar modder
+
+![](/images/logbook/gui-mockup.png)

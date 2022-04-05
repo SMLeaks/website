@@ -4,10 +4,15 @@ sidebar_position: 8
 id: pre-survival
 ---
 
-#### [Click to see potentially disturbing content](/images/pre-survival/hanging-character.png)
-
 ### Hanging Character
 > Image by Dart Frog
+
+**[Click to see potentially disturbing content](/images/pre-survival/hanging-character.png)**
+
+### Indestructable Block
+> "*Commented out in 0.1.16, Wasn't actually irremovable. It disappeared from the files in 0.2 or earlier. Nowadays we have a successor to this block called the Framework Block, it's used heavily in the warehouses and is permanently encrypted.*"
+
+> Images by Dart Frog
 
 ![](/images/pre-survival/indestructable-block.png)
 <video
@@ -34,8 +39,8 @@ id: pre-survival
   style={{ width: '100%' }}
 />
 
-### Indestructable Block
-> "*Commented out in 0.1.16, Wasn't actually irremovable. It disappeared from the files in 0.2 or earlier. Nowadays we have a successor to this block called the Framework Block, it's used heavily in the warehouses and is permanently encrypted.*"
+### Insulation Block
+> "*Was commented out in the files and removed in 0.2 or earlier. An updated version of this block has been added to the game in the Survival Update (0.4.0)*"
 
 > Images by Dart Frog
 
@@ -64,10 +69,8 @@ id: pre-survival
   style={{ width: '100%' }}
 />
 
-### Insulation Block
-> "*Was commented out in the files and removed in 0.2 or earlier. An updated version of this block has been added to the game in the Survival Update (0.4.0)*"
-
-> Images by Dart Frog
+### Beta Spaceship Block
+> "*Was commented out in the files and removed in 0.2 or earlier. Unlike the other 2 commented blocks, it had no description or name in the inventory, and it's preview was larger than all other blocks. It was officially added to the game in version 0.2.11*"
 
 ![](/images/pre-survival/spaceship-block.png)
 <video
@@ -94,10 +97,7 @@ id: pre-survival
   style={{ width: '100%' }}
 />
 
-### Beta Spaceship Block
-> "*Was commented out in the files and removed in 0.2 or earlier. Unlike the other 2 commented blocks, it had no description or name in the inventory, and it's preview was larger than all other blocks. It was officially added to the game in version 0.2.11*"
-
-![](/images/pre-survival/ship-tile.png)
-
 ### Ship Tile
 > Image by Dart Frog
+
+![](/images/pre-survival/ship-tile.png)

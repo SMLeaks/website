@@ -4,6 +4,9 @@ sidebar_position: 5
 id: tiles
 ---
 
+### Unused Tile Asset Icons
+> Found by BananaCat
+
 <>{[
   'https://cdn.discordapp.com/attachments/669212231749206026/770725883257815050/90cea71c-a93b-44b8-8421-1195c691547c.png',
   'https://cdn.discordapp.com/attachments/669212231749206026/770725940619640852/f6cf1aa1-ee0c-4904-ae8f-0701071940c6.png',
@@ -26,8 +29,8 @@ id: tiles
   <img key={i} src={url} width={94} height={94} />
 ))}</>
 
-### Unused Tile Asset Icons
-> Found by BananaCat
+### Hidden Node Icons
+> Found by Red Gal
 
 <>{[
   'https://cdn.discordapp.com/attachments/835996787370098798/835996920010506320/AreaTriggerIcon.png',
@@ -50,6 +53,3 @@ id: tiles
 ].map((url,i) => (
   <img key={i} src={url} width={94} height={94} />
 ))}</>
-
-### Hidden Node Icons
-> Found by Red Gal

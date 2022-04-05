@@ -1,5 +1,5 @@
 ---
-title: Unused Textures
+title: 📷 Unused Textures
 sidebar_position: 4
 id: textures
 ---

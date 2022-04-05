@@ -1,5 +1,5 @@
 ---
-title: Unused Tiles
+title: ⛺ Unused Tiles
 sidebar_position: 5
 id: tiles
 ---

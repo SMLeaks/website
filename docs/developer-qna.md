@@ -1,5 +1,5 @@
 ---
-title: Developer Q&A
+title: ❓ Developer Q&A
 description: We have collected and answered a lot of your Scrap Mechanic questions!
 id: developer-qna
 sidebar_position: 4

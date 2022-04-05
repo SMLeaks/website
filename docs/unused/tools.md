@@ -1,5 +1,5 @@
 ---
-title: Unused Tools
+title: 🔨 Unused Tools
 sidebar_position: 2
 id: tools
 ---

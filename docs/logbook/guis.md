@@ -1,5 +1,5 @@
 ---
-title: Logbook GUIs
+title: 💻 Logbook GUIs
 sidebar_position: 3
 id: guis
 ---

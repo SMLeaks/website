@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 🏠 Home
 id: home
 sidebar_position: 1
 ---

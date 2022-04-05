@@ -1,5 +1,5 @@
 ---
-title: Unused Particles
+title: ✨ Unused Particles
 sidebar_position: 6
 id: particles
 ---

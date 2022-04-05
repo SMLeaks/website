@@ -1,5 +1,5 @@
 ---
-title: Credits
+title: 📜 Credits
 id: credits
 sidebar_position: 5
 ---

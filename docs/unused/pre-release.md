@@ -1,5 +1,5 @@
 ---
-title: Unused Survival Pre-Release
+title: 🔐 Unused Survival Pre-Release
 sidebar_position: 7
 id: pre-release
 ---

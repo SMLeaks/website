@@ -22,7 +22,7 @@ const sidebars = {
     {
       type: 'link',
       href: '/devblog',
-      label: 'Devblogs'
+      label: '📚 Devblogs'
     }
   ],
 };

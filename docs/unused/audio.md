@@ -1,5 +1,5 @@
 ---
-title: Unused Audio
+title: 🔊 Unused Audio
 sidebar_position: 1
 id: audio
 ---

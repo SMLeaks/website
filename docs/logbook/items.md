@@ -1,5 +1,5 @@
 ---
-title: Logbook Items
+title: 📼 Logbook Items
 sidebar_position: 2
 id: items
 ---

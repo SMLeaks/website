@@ -1,5 +1,5 @@
 ---
-title: Logbook Audio
+title: 🎧 Logbook Audio
 sidebar_position: 1
 id: audio
 ---

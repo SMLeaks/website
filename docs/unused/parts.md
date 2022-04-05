@@ -1,5 +1,5 @@
 ---
-title: Unused Parts
+title: 🧱 Unused Parts
 sidebar_position: 3
 id: parts
 ---

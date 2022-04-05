@@ -18,6 +18,6 @@ id: parts
 ![](/images/other/car-parts.png)
 
 ### Survival Car Parts
-> From [Devblog 7](/devblog/7)
+> From [Devblog 7](/devblog/7#cars-in-survival-mode)
 
 > Image by BananaCat

@@ -27,7 +27,7 @@ id: audio
 </audio>
 
 ## Caves
-> Confirmed in [Devblog 20](/devblog/20)
+> Confirmed in [Devblog 20](/devblog/20#going-underground)
 
 ### amb_2D_cave_base
 <audio controls>
@@ -51,7 +51,7 @@ id: audio
 </audio>
 
 ## Digital Clock Alarms
-> Possibly from [Devblog 21](/devblog/21)
+> Possibly from [Devblog 21](/devblog/21#digital-clock)
 
 ### alarm01
 <audio controls>

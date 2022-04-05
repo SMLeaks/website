@@ -7,7 +7,7 @@ id: tools
 ![](/images/tools/liftremote.png)
 
 ### Lift Remote
-> Mentioned in [Devblog 17](/devblog/17)
+> Mentioned in [Devblog 17](/devblog/17#a-big-lift)
 
 > Found and Rendered by Charging Turnip
 

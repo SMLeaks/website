@@ -25,10 +25,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
   organizationName: 'SMLeaks',
-  projectName: 'website-new',
-  scripts: [
-    '/js/noflash.js'
-  ]
+  projectName: 'website-new'
 };
 
 config.presets = [

@@ -60,7 +60,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          commit-message: Build v${{needs.release.outputs.version}}-${{needs.release.outputs.sha}}
+          commit-message: Build ${{ github.sha }}
           source-directory: build
           destination-github-username: smleaks
           destination-repository-name: website-new-development

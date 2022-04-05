@@ -4,7 +4,7 @@ sidebar_position: 1
 id: audio
 ---
 
-## VO Stragler
+## Straggler Logs
 
 ### VO_Straggler_01
 <audio controls>

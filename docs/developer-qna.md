@@ -31,7 +31,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                     q: 'Will the scrapyard biome shown in some screenshots and concept art be added in a future update, or is it scrapped?',
                     a: (
                       <>
-                        The scrapyard biome shown in <a href="/devblog/13">Devblog 13</a> is not really scrapped, but it is put on hold for now.
+                        The scrapyard biome shown in <a href="/devblog/13#enter-the-scrapyard">Devblog 13</a> is not really scrapped, but it is put on hold for now.
                         The reason is that we took the story in a more interesting direction and the scrapyard didn&apos;t really fit as the next location.
                         However, it might be included in a later update.
                         We still have a lot of really great ideas for the scrapyard setting.
@@ -120,7 +120,7 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                       <>
                         You mentioned an exosuit in
                         {' '}
-                        <Link href="/devblog/12" prefetch={false}>Devblog 12</Link>
+                        <a href="/devblog/12#exo-suit">Devblog 12</a>
                         {' '}
                         that gave you minor perks.
                         Was that scrapped, or will it be implemented in the next chapter?

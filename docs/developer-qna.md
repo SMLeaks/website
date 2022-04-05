@@ -155,7 +155,9 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                     a: "We are not sure what exploits are referring to. But if the players want to exploit the game and break things because they think it's fun, then that's ok. It's their choice, as long as they are having a good time.",
                   },
                   {
-                    q: "A question I have is, how will you treat automation? I saw in a [devblog a lot of time ago a picture where you could use vacuum pumps to move gas into a canister](/devblog/16#pipe-and-socket). I'd love to see a funnel pipe of some sort to shoot items into from a vacuum pump, like the packing station.",
+                    q: <>
+                      A question I have is, how will you treat automation? I saw in a <a href="/devblog/16#pipe-and-socket">devblog a lot of time ago a picture where you could use vacuum pumps to move gas into a canister</a>. I'd love to see a funnel pipe of some sort to shoot items into from a vacuum pump, like the packing station.
+                    </>,
                     a: 'With the release of Survival Mode, we noticed that a lot of players were really enjoying the automation part of the game and wanted more. Shooting items into a container or a chest from separate creations is something that we will look into. We always wanted players to build their own automated gas stations that fill up their vehicles, for example.',
                   },
                   {
@@ -276,7 +278,9 @@ Let us know if you would like us to do these Q&As from time to time in the comme
                     a: "It's because of the awesome Scrap Mechanic community making really great mods. We, however, are a bit limited when adding things to Scrap Mechanic since everything has to fit the theme and have a meaning in the context of the game. We focus more on bigger updates while leaving a lot of space for mod makers to be creative.",
                   },
                   {
-                    q: '[Devblog 22](/devblog/22) when?',
+                    q: <>
+                      <a href="/devblog/22">Devblog 22</a> when?
+                    </>,
                     a: 'Hopefully soon. Right now, we are waiting for a few things to be more presentable. We can, however, say that it will be a pretty exciting devblog. We will show underground digging for the first time!',
                   },
                   {

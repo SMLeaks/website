@@ -1,5 +1,17 @@
 # Changelog
 
+### [5.1.1](https://github.com/SMLeaks/website-new/compare/v5.1.0...v5.1.1) (2022-04-06)
+
+
+### Features
+
+* add spoiler warning ([6df68f8](https://github.com/SMLeaks/website-new/commit/6df68f8677c8a18a8fa801deef779886cb019347))
+
+
+### Miscellaneous Chores
+
+* **main:** release 5.1.1 ([fc715fb](https://github.com/SMLeaks/website-new/commit/fc715fb6ef4666b9b3fb3ce775471ce35dd4603b))
+
 ## [5.1.0](https://github.com/SMLeaks/website-new/compare/v5.0.0...v5.1.0) (2022-04-05)
 
 

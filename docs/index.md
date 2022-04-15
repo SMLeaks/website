@@ -14,6 +14,6 @@ You can also check out our [Discord](/discord)!
 
 :::danger SPOILERS AHEAD!
 
-Most of the content shown here contains spoilers for upcoming features and content. It also spoils a majority of the storyline for future updates.
+Most of the content shown here contains spoilers for upcoming features and content. It also spoils a majority of the storyline for future updates. ***PROCEED WITH CAUTION***.
 
 :::

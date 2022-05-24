@@ -84,3 +84,8 @@ id: audio
 <audio controls>
   <source src="/audio/encrypter_off.wav" type="audio/wav" />
 </audio>
+
+### spudgun_reload
+<audio controls>
+  <source src="/audio/spudgun_reload.wav" type="audio/wav" />
+</audio>

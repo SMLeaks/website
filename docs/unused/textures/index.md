@@ -18,3 +18,8 @@ id: textures
 > Found by Turbo Biscuit
 
 ![](./mechanicstationbillboardalt.png)
+
+### Challange Mode "Unlock Dress"
+> Found by [Mateusz Perczak](https://github.com/MateuszPerczak)
+
+![](./challengemode_unlock_dress.png)

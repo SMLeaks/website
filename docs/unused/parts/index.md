@@ -21,3 +21,10 @@ id: parts
 > Image by BananaCat
 
 ![](./car-parts.png)
+
+### Maintenance Spaceship Interior Gear
+> From [Devblog 18](/devblog/18#the-crash)
+
+> Image by Red Gal
+
+![](./maintenance-spaceship-interior-gear.png)

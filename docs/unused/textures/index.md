@@ -5,25 +5,21 @@ id: textures
 ---
 
 ### Outfit Package Unused Textures
-
 > Found by Turbo Biscuit
 
 ![](./outfitpackge.png)
 
 ### Dead Duck
-
 > Found by Turbo Biscuit
 
 ![](./deadduckhead.png)
 
 ### Mechanic Station Billboard Unused Alt Texture
-
 > Found by Turbo Biscuit
 
 ![](./mechanicstationbillboardalt.png)
 
-### Challange mode outfit
+### Challange Mode "Unlock Dress"
+> Found by [Mateusz Perczak](https://github.com/MateuszPerczak)
 
-> Found by Mateusz Perczak
-
-![](./challengemodedress.png)
+![](./challengemode_unlock_dress.png)

@@ -74,11 +74,6 @@ id: audio
 </audio>
 
 ## Other
-### painttool_eraseslurp
-<audio controls>
-  <source src="/audio/painttool_eraseslurp.wav" type="audio/wav" />
-</audio>
-
 ### encrypter_on
 <audio controls>
   <source src="/audio/encrypter_on.wav" type="audio/wav" />

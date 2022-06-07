@@ -35,10 +35,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'favicon.ico',
-  organizationName: 'SMLeaks',
-  projectName: 'website-new',
-  
+  favicon: 'favicon.ico'  
 };
 
 config.presets = [
@@ -109,7 +106,7 @@ config.themeConfig = {
     },
     items: [
       {
-        href: `https://github.com/${config.organizationName}/${config.projectName}`,
+        href: `/github`,
         label: 'GitHub',
         position: 'right',
       },

@@ -3,6 +3,7 @@
         "workflows/build-release",
         "main",
         "unused/textures",
-        "unused/parts"
+        "unused/parts",
+        "unused/audio"
     ]
 }

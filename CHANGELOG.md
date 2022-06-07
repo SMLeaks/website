@@ -1,5 +1,26 @@
 # Changelog
 
+### [5.1.3](https://github.com/SMLeaks/website-new/compare/v5.1.2...v5.1.3) (2022-06-07)
+
+
+### Features
+
+* add "Maintenance Spaceship Interior Gear" (closes [#12](https://github.com/SMLeaks/website-new/issues/12)) ([f8fd514](https://github.com/SMLeaks/website-new/commit/f8fd514e086fe44214e9dce9eb2db71a7d6b1a2f))
+* add `spudgun_reload.wav` (closes [#20](https://github.com/SMLeaks/website-new/issues/20)) ([661379d](https://github.com/SMLeaks/website-new/commit/661379d5cd14fb684fce37b2f4c8c3312326c92f))
+* add github redirect ([ab82b4a](https://github.com/SMLeaks/website-new/commit/ab82b4ad5bbafb561c1aa20687409f1d29bd888f))
+* **unused/audio:** add "Battle Theme Mastered Looping Full" (closes [#18](https://github.com/SMLeaks/website-new/issues/18)) ([df5fec3](https://github.com/SMLeaks/website-new/commit/df5fec3b9ed4920473eac975cad485eda10ad16f))
+* **unused/parts:** add "Maintenance Spaceship Interior Control Board" (closes [#13](https://github.com/SMLeaks/website-new/issues/13)) ([b23a964](https://github.com/SMLeaks/website-new/commit/b23a9647add535305d3fd3f5c942e07f57267bce))
+* **unused/parts:** add `env_building_fluorescentlight` ([0160712](https://github.com/SMLeaks/website-new/commit/01607128beb2b29c3e8cd23932c0ad62cae5001f))
+* **unused/textures:** add note to "Challenge Mode Unlock Dress" ([8d245d8](https://github.com/SMLeaks/website-new/commit/8d245d89366e713e47c8d413767a657e5fa2f9dc))
+* **unused/textures:** add old warehouse key (closes [#15](https://github.com/SMLeaks/website-new/issues/15)) ([a1505c3](https://github.com/SMLeaks/website-new/commit/a1505c341be9190ba960329c43114b982ed4487e))
+* **unused/tools:** add spline tool showcase (closes [#19](https://github.com/SMLeaks/website-new/issues/19)) ([ee9664d](https://github.com/SMLeaks/website-new/commit/ee9664db2733478870208017d8040e64ba1755bf))
+
+
+### Bug Fixes
+
+* fix build commit sha length ([13377b1](https://github.com/SMLeaks/website-new/commit/13377b1f2c35dfd636e1e3e60056655b15f9d555))
+* remove `painttool_eraseslurp.wav` (closes [#20](https://github.com/SMLeaks/website-new/issues/20)) ([17489db](https://github.com/SMLeaks/website-new/commit/17489db153d005e7bc40942c72ee55364f978e1d))
+
 ### [5.1.2](https://github.com/SMLeaks/website-new/compare/v5.1.1...v5.1.2) (2022-04-15)
 
 

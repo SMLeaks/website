@@ -16,6 +16,8 @@ const build = {
   url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:3000',
 }
 
+if(build.commit) build.commit = build.commit.slice(0, 7)
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SMLeaks',

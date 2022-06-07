@@ -27,3 +27,31 @@ id: tools
 
 ![](./garden-shovel-hand.png)
 ![](./garden-shovel-color.png)
+
+### Spline Camera Showcase
+> Video by Red Gal
+
+:::caution
+This tool was removed in 0.6.0 but may return in a future update as mentioned in [Devblog 23](/devblog/23#cinematic-tool).
+:::
+
+:::tip Usage Instructions
+> Obtained by using the `/camera` command in survival mode while survival dev is enabled. 
+
+|Action|Keybind|Default Keybind Key|
+|-|-|-|
+|Place Spline Path Node| `Rotate`|`Q`|
+|Play Spline Path|`Remove / Secondary`|`Right Click`|
+|Remove Spline Path|Hold `Build / Primary`|`Left Click`|
+|Save/Load Spline Path to/from Disk|`Reload`|`R`|
+:::
+
+:::caution
+To load a spline path from disk you must remove the current spline path first or else you will overwrite the spline path on disk with the currently loaded spline path.
+:::
+
+<video
+  src="/videos/spline-camera-showcase.mp4"
+  controls
+  style={{ width: '100%' }}
+/>

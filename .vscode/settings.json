@@ -4,6 +4,7 @@
         "main",
         "unused/textures",
         "unused/parts",
-        "unused/audio"
+        "unused/audio",
+        "unused/tools"
     ]
 }

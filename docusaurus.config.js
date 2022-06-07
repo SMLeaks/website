@@ -3,8 +3,18 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const fs = require('fs')
 
-process.env.VERSION ||= require('fs').readFileSync('./version.txt').toString()
+if(fs.existsSync('version.txt') && process.env.VERSION === undefined) {
+  process.env.VERSION = fs.readFileSync('version.txt').toString()
+}
+
+const build = {
+  version: process.env.VERSION.trim(),
+  commit: process.env.CF_PAGES_COMMIT_SHA,
+  branch: process.env.CF_PAGES_BRANCH,
+  url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:3000',
+}
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -19,13 +29,14 @@ const config = {
     }
   },
   tagline: 'Community run leaking website for Scrap Mechanic',
-  url: 'https://new.smleaks.com',
+  url: build.url,
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
   organizationName: 'SMLeaks',
-  projectName: 'website-new'
+  projectName: 'website-new',
+  
 };
 
 config.presets = [
@@ -55,18 +66,19 @@ config.presets = [
       },
     }),
   ],
-]
+];
 
-let copyright = `Copyright © ${new Date().getFullYear()} ${config.title}` 
+let copyright = `Copyright © ${new Date().getFullYear()} ${config.title}`
 
-if(process.env.VERSION) {
-  copyright += ` | v${process.env.VERSION.trim()}`
+if(build.version) {
+  copyright += ` | v${build.version}`
+  if(build.branch) copyright += `-${build.branch}`
+  if(build.commit) copyright += `+${build.commit}`
+} else {
+  copyright += ' | Build '
+  if(build.branch) copyright += `${build.branch}-`
+  if(build.commit) copyright += `${build.commit}`
 }
-if(process.env.GITHUB_SHA) {
-  copyright += (process.env.VERSION ? '+' : ' | Build ')
-  copyright += process.env.GITHUB_SHA.slice(0,7)
-}
-
 /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 config.themeConfig = {
   colorMode: {
@@ -112,7 +124,7 @@ config.themeConfig = {
   },
   footer: {
     style: 'light',
-    copyright: copyright
+    copyright
   },
   prism: {
     theme: lightCodeTheme,

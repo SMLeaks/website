@@ -106,12 +106,12 @@ config.themeConfig = {
     },
     items: [
       {
-        href: `/github`,
+        href: `pathname:///github`,
         label: 'GitHub',
         position: 'right',
       },
       {
-        href: '/discord',
+        href: 'pathname:///discord',
         label: 'Discord',
         position: 'right'
       },

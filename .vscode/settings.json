@@ -5,6 +5,7 @@
         "unused/textures",
         "unused/parts",
         "unused/audio",
-        "unused/tools"
+        "unused/tools",
+        "docusaurus/config"
     ]
 }

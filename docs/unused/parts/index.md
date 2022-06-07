@@ -28,3 +28,10 @@ id: parts
 > Image by Red Gal
 
 ![](./maintenance-spaceship-interior-gear.png)
+
+### Maintenance Spaceship Interior Control Board
+> "*Can't find any textures for it, the UV map doesn't look correct either. Looks quite a lot different from the tile asset broken controlboard of the ship we have now and is in .mesh format so it's probably quite old.*"
+
+> Image by Dart Frog
+
+![](./maintenance-spaceship-interior-control-board.png)

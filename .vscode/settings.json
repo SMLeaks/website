@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "workflows/build-release",
         "main",
-        "unused/textures"
+        "unused/textures",
+        "unused/parts"
     ]
 }

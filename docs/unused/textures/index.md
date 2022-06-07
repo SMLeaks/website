@@ -21,5 +21,7 @@ id: textures
 
 ### Challange Mode "Unlock Dress"
 > Found by [Mateusz Perczak](https://github.com/MateuszPerczak)
-
+:::note
+Added in 0.6.0
+:::
 ![](./challengemode_unlock_dress.png)

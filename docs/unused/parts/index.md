@@ -35,3 +35,8 @@ id: parts
 > Image by Dart Frog
 
 ![](./maintenance-spaceship-interior-control-board.png)
+
+### `env_building_fluorescentlight`
+> Found by Red Gal
+
+![](./env_building_fluorescentlight.png)

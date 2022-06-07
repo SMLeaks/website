@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.1.4](https://github.com/SMLeaks/website-new/compare/v5.1.3...v5.1.4) (2022-06-07)
+
+
+### Bug Fixes
+
+* **docusaurus/config:** force discord and github navbar links as external (workaround from facebook/docusaurus[#3309](https://github.com/SMLeaks/website-new/issues/3309)) ([613d83a](https://github.com/SMLeaks/website-new/commit/613d83a9d2f2de029f0800863eab73d77ab170e0))
+
 ### [5.1.3](https://github.com/SMLeaks/website-new/compare/v5.1.2...v5.1.3) (2022-06-07)
 
 

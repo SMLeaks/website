@@ -25,3 +25,8 @@ id: textures
 Added in 0.6.0
 :::
 ![](./challengemode_unlock_dress.png)
+
+### Old Warehouse Key
+> Found by Red Gal
+
+![](./old-warehouse-key.png)

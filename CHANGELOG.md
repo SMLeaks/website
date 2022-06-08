@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.1.6](https://github.com/SMLeaks/website/compare/v5.1.5...v5.1.6) (2022-06-08)
+
+
+### Bug Fixes
+
+* fix "external" links ([9b3afb4](https://github.com/SMLeaks/website/commit/9b3afb4e25e02a37efbd513bdcaa0129312f0126))
+
 ### [5.1.5](https://github.com/SMLeaks/website/compare/v5.1.4...v5.1.5) (2022-06-08)
 
 

@@ -6,6 +6,7 @@
         "unused/parts",
         "unused/audio",
         "unused/tools",
-        "docusaurus/config"
+        "docusaurus/config",
+        "unused/animations"
     ]
 }

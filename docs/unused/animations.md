@@ -56,6 +56,7 @@ id: animations
 
 ### Unused Spudgun Reload Animation
 > Found by Vajdani
+
 <video
   src="/videos/spudgun-reload.mp4"
   controls

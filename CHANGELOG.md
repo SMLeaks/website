@@ -1,5 +1,17 @@
 # Changelog
 
+### [5.1.5](https://github.com/SMLeaks/website/compare/v5.1.4...v5.1.5) (2022-06-08)
+
+
+### Features
+
+* **unused/animations:** add jumping totebot animations (closes [#30](https://github.com/SMLeaks/website/issues/30)) ([6f7fb93](https://github.com/SMLeaks/website/commit/6f7fb930cce56ad77e4b4d9f17c72c644f0c5532))
+* **unused/animations:** add sleeping totebot animations (closes [#30](https://github.com/SMLeaks/website/issues/30)) ([4d1fe5c](https://github.com/SMLeaks/website/commit/4d1fe5c4490814cd5a8b7eebe615fff52b4ed54d))
+* **unused/animations:** add unused spudgun reload animation (closes [#31](https://github.com/SMLeaks/website/issues/31)) ([90fe5fd](https://github.com/SMLeaks/website/commit/90fe5fdd57fc42316ce14d57f6649ab08ab8ba94))
+* **unused/particles:** add unused orientation particle "lasers" ([9ca47df](https://github.com/SMLeaks/website/commit/9ca47dffa17346af7bb77c90828a75eac965e4fe))
+* **unused/textures:** add unused quest markers (closes [#28](https://github.com/SMLeaks/website/issues/28)) ([8525223](https://github.com/SMLeaks/website/commit/8525223eb3fbb577dbe038e88c1f7ae910f0d2d9))
+* **unused/textures:** add unused tile editor icons (closes [#32](https://github.com/SMLeaks/website/issues/32)) ([2ee4b02](https://github.com/SMLeaks/website/commit/2ee4b023c48c6a34ad9765f4600a86111b7ec891))
+
 ### [5.1.4](https://github.com/SMLeaks/website-new/compare/v5.1.3...v5.1.4) (2022-06-07)
 
 

@@ -48,3 +48,14 @@ id: particles
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowFullScreen 
 />
+
+### Orientation Particle "Lasers"
+> Found by Dart Frog
+
+<video
+  src="https://thumbs.gfycat.com/RealHappyFlea-mobile.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>

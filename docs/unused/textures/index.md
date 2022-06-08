@@ -30,3 +30,10 @@ Added in 0.6.0
 > Found by Red Gal
 
 ![](./old-warehouse-key.png)
+
+### Unused Quest Markers
+> Found by Dart Frog and Turbo Biscuit
+
+![](./icon_lostitem_large.png)
+![](./icon_mechanicstation_large.png)
+![](./icon_spaceship_large.png)

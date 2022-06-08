@@ -37,3 +37,31 @@ Added in 0.6.0
 ![](./icon_lostitem_large.png)
 ![](./icon_mechanicstation_large.png)
 ![](./icon_spaceship_large.png)
+
+### Unused Tile Editor Icons
+> Found by Red Gal and Turbo Biscuit
+
+
+> `placeholder`
+
+![](./ed_icon_placeholder.png)
+
+
+> `tilehigh`
+
+![](./ed_icon_tilehigh.png)
+
+
+> `tilemid`
+
+![](./ed_icon_tilemid.png)
+
+
+> `tilelow`
+
+![](./ed_icon_tilelow.png)
+
+
+> `voxelmesh`
+
+![](./ed_gizmo_voxelmesh.png)

@@ -29,3 +29,27 @@ id: animations
   controls
   style={{ width: '100%' }}
 />
+
+### Totebot Jumping Animations
+> Videos by Dart Frog
+
+> `jump`
+<video
+  src="/videos/totebot-jump.mp4"
+  controls
+  style={{ width: '100%' }}
+/>
+
+> `jumpup`
+<video
+  src="/videos/totebot-jumpup.mp4"
+  controls
+  style={{ width: '100%' }}
+/>
+
+> `land`
+<video
+  src="/videos/totebot-land.mp4"
+  controls
+  style={{ width: '100%' }}
+/>

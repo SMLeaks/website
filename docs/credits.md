@@ -20,4 +20,4 @@ sidebar_position: 5
 * Nothing Mod (aka Komendowy Muzykant)
 * ShrooToo
 
-> If you have contributed to the SMLeaks website in any way ***please*** contact me on [discord](/discord) so I can add you to this list!
+> If you have contributed to the SMLeaks website in any way ***please*** contact me on [discord](pathname:///discord) so I can add you to this list!

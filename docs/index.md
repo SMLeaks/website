@@ -10,7 +10,7 @@ The community run leaking website for [Scrap Mechanic](https://store.steampowere
 
 This is currently being run and maintained by [Turbo Biscuit](https://trbo.dev).
 
-You can also check out our [Discord](/discord)!
+You can also check out our [Discord](pathname:///discord)!
 
 :::danger SPOILERS AHEAD!
 

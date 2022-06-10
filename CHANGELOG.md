@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.1.7](https://github.com/SMLeaks/website/compare/v5.1.6...v5.1.7) (2022-06-10)
+
+
+### Reverts
+
+* **docusaurus/config:** fix `undefined` doc edit link (reverts ab82b4a) ([50f46db](https://github.com/SMLeaks/website/commit/50f46db9945b15afa180120bfc75c6eb8bcb40d5))
+
 ### [5.1.6](https://github.com/SMLeaks/website/compare/v5.1.5...v5.1.6) (2022-06-08)
 
 

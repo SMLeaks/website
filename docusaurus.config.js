@@ -35,7 +35,9 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'favicon.ico'  
+  favicon: 'favicon.ico',
+  organizationName: 'SMLeaks',
+  projectName: 'website'
 };
 
 config.presets = [

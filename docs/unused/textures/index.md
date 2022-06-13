@@ -39,7 +39,7 @@ Added in 0.6.0
 ![](./icon_spaceship_large.png)
 
 ### Unused Tile Editor Icons
-> Found by Red Gal and Turbo Biscuit
+> Found by Red Gal, Turbo Biscuit and Dart Frog
 
 
 > `placeholder`

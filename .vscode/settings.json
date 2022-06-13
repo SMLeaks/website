@@ -8,6 +8,7 @@
         "unused/tools",
         "docusaurus/config",
         "unused/animations",
-        "unused/particles"
+        "unused/particles",
+        "unused/tiles"
     ]
 }

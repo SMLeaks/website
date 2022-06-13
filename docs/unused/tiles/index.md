@@ -64,3 +64,8 @@ Added in 0.6.0
 ![](./hidden-node-icons/WaterIcon.png)
 ![](./hidden-node-icons/WaypointIcon.png)
 ![](./hidden-node-icons/WocIcon.png)
+
+### Unused "GAS" Nodes
+> Found by Dart Frog
+
+![](./gas-nodes.png)

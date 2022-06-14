@@ -59,3 +59,58 @@ id: particles
   loop
   style={{ width: '100%' }}
 />
+
+### "Falling" Particle
+> Found by Dart Frog
+
+<video
+  src="https://thumbs.gfycat.com/SneakyEmotionalAnhinga-mobile.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>
+
+### Challenge Mode Roof Crane
+> Found by Dart Frog
+
+<video
+  src="https://thumbs.gfycat.com/NextSparseFishingcat-mobile.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>
+
+### Encryptor "barrier_hit"
+> Found by Donut
+
+<video
+  src="https://cdn.discordapp.com/attachments/709877116224667749/984121024524189756/barrier_hit.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>
+
+### Encryptor "barrier_impact"
+> Found by Dart Frog
+
+<video
+  src="https://thumbs.gfycat.com/PresentTautDolphin-mobile.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>
+
+### Encryptor "barrier_impact_hit"
+> Found by Dart Frog
+
+<video
+  src="https://cdn.discordapp.com/attachments/709877116224667749/984121446492147782/barrier_impact_hit.mp4"
+  autoPlay
+  muted
+  loop
+  style={{ width: '100%' }}
+/>

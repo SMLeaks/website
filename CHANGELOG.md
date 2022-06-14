@@ -1,5 +1,18 @@
 # Changelog
 
+### [5.1.8](https://github.com/SMLeaks/website/compare/v5.1.7...v5.1.8) (2022-06-14)
+
+
+### Features
+
+* **unused/particles:** add new unused particles ([9021f9a](https://github.com/SMLeaks/website/commit/9021f9add644b23ff7ee9d2d6df2df0e185e11cc))
+* **unused/tiles:** add unused gas nodes ([925489d](https://github.com/SMLeaks/website/commit/925489d4fc5eb86d235fc956c61adc68206f9e2c))
+
+
+### Miscellaneous Chores
+
+* **main:** update docusaurus to beta 21 ([4ec9616](https://github.com/SMLeaks/website/commit/4ec96166b23062fe409556c27c3e08af21ceb707))
+
 ### [5.1.7](https://github.com/SMLeaks/website/compare/v5.1.6...v5.1.7) (2022-06-10)
 
 

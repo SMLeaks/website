@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.6.0](https://github.com/SMLeaks/website/compare/v5.1.8...v5.6.0) (2022-06-22)
+
+
+### Miscellaneous Chores
+
+* **main:** fix semver (i was doing it wrong) ([ac6e5e8](https://github.com/SMLeaks/website/commit/ac6e5e8d7e3bbee199f3875f760f8154f5124ef0))
+
 ### [5.1.8](https://github.com/SMLeaks/website/compare/v5.1.7...v5.1.8) (2022-06-14)
 
 

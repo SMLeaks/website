@@ -1,3 +1,3 @@
 README W.I.P
 
-> Version: v5.1.8 <!-- x-release-please-version -->
+> Version: v5.6.0 <!-- x-release-please-version -->

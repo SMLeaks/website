@@ -62,3 +62,12 @@ id: animations
   controls
   style={{ width: '100%' }}
 />
+
+### Unused Connection Tool Flip Animation
+> Found by Vajdani
+
+<video
+  src="/videos/connection-tool-flip.mp4"
+  controls
+  style={{ width: '100%' }}
+/>

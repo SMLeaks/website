@@ -1,5 +1,21 @@
 # Changelog
 
+### [5.6.2](https://github.com/SMLeaks/website/compare/v5.6.0...v5.6.2) (2022-09-29)
+
+
+### Features
+
+* **devblogs:** add devblog 24 placeholder with teaser image ([2659591](https://github.com/SMLeaks/website/commit/2659591a0965f946f28af56f5d5dd2bd7109c0b3))
+* **unused/animations:** add unused connection tool flip animation ([9082fa9](https://github.com/SMLeaks/website/commit/9082fa9f6be977b3e46e1752b8597d83b4a75300))
+* **unused/particles:** add unused challenge builder blue floor ([19d6fbf](https://github.com/SMLeaks/website/commit/19d6fbfce8dd9af2ea2b435fd3671f62b1cae9f3))
+* **unused/parts:** add early spaceship door and unused half pipe ([22b7b5c](https://github.com/SMLeaks/website/commit/22b7b5c57cb14135f460f8ea0b367c87f15128e4))
+* **unused/textures:** add unused test decals and hidden "help" ([77e9611](https://github.com/SMLeaks/website/commit/77e96119115b8bc7f84a453e72c8e016b7cef766))
+
+
+### Bug Fixes
+
+* **credits:** update credits (closes [#36](https://github.com/SMLeaks/website/issues/36)) ([de8423a](https://github.com/SMLeaks/website/commit/de8423a996e5b2b2ea00fa65a29967d2aaa2bd3d))
+
 ## [5.6.0](https://github.com/SMLeaks/website/compare/v5.1.8...v5.6.0) (2022-06-22)
 
 

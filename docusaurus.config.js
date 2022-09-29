@@ -72,9 +72,10 @@ config.presets = [
 let copyright = `Copyright © ${new Date().getFullYear()} ${config.title}`
 
 if(build.version) {
-  copyright += ` | v${build.version}`
+  copyright += ` | <a href="https://github.com/${config.organizationName}/${config.projectName}/releases/tag/v${build.version}">v${build.version}`
   if(build.branch) copyright += `-${build.branch}`
   if(build.commit) copyright += `+${build.commit}`
+  copyright += "</a>"
 } else {
   copyright += ' | Build '
   if(build.branch) copyright += `${build.branch}-`

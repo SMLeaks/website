@@ -40,3 +40,13 @@ id: parts
 > Found by Red Gal
 
 ![](./env_building_fluorescentlight.png)
+
+### Early Spaceship Door
+> Found by Red Gal
+
+![](./early-spaceship-door.png)
+
+### Half Pipe
+> Image by Red Gal
+
+![](./half-pipe.png)

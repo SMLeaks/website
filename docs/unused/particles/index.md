@@ -114,3 +114,8 @@ id: particles
   loop
   style={{ width: '100%' }}
 />
+
+### Challenge Builder Blue Floor
+> Found by Red Gal
+
+![](./challenge-builder-blue-floor.png)

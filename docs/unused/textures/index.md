@@ -65,3 +65,13 @@ Added in 0.6.0
 > `voxelmesh`
 
 ![](./ed_gizmo_voxelmesh.png)
+
+### Unused Test Decals
+> Found by Red Gal
+
+![](./test-decals.png)
+
+### Hidden "help"
+> Found by Red Gal
+
+![](./help.png)

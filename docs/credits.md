@@ -17,7 +17,8 @@ sidebar_position: 5
 * Dart Frog
 * Red Gal
 * Vajdani
-* Nothing Mod (aka Komendowy Muzykant)
+* Nothing Mod
 * ShrooToo
+* Donut
 
 > If you have contributed to the SMLeaks website in any way ***please*** contact me on [discord](pathname:///discord) so I can add you to this list!

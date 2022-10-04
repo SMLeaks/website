@@ -1,5 +1,13 @@
 # Changelog
 
+### [5.6.3](https://github.com/SMLeaks/website/compare/v5.6.2...v5.6.3) (2022-10-04)
+
+
+### Features
+
+* **devblogs:** devblog 24 ([21fc0ab](https://github.com/SMLeaks/website/commit/21fc0ab2b786ad3f724fa1ebcfdc34bfd68b0f37))
+* **docusaurus/config:** add version link to footer ([fa72538](https://github.com/SMLeaks/website/commit/fa72538cd1397d340659286bc61100bcccebbbb0))
+
 ### [5.6.2](https://github.com/SMLeaks/website/compare/v5.6.0...v5.6.2) (2022-09-29)
 
 

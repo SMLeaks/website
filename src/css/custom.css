@@ -72,3 +72,10 @@ a.ahash {
 .menu__link {
   line-height: 1.1 !important;
 }
+
+.navbar-sidebar {
+  position: absolute;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}

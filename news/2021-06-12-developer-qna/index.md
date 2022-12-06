@@ -4,7 +4,7 @@ title: Developer Q&A
 description: We have collected and answered a lot of your Scrap Mechanic questions!
 image: ./title.png
 toc_max_heading_level: 4
-original_url: https://steamcommunity.com/games/387990/announcements/detail/4975895695804617040
+original_url: https://store.steampowered.com/news/app/387990/view/4975895695804617040
 ---
 
 <head>

@@ -5,7 +5,7 @@ description: Latest news from the Scrap Mechanic HQ!
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1592509846749130915
+original_url: https://store.steampowered.com/news/app/387990/view/1592509846749130915
 ---
 
 <head>

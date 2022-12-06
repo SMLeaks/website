@@ -5,7 +5,7 @@ description: How about we open up our window and let you grab another little gli
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/289749803410796013
+original_url: https://store.steampowered.com/news/app/387990/view/289749803410796013
 ---
 
 <head>

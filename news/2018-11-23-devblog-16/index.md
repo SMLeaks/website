@@ -5,7 +5,7 @@ description: In this devblog we want to dig deeper in to some survival mechanics
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1705071932966678598
+original_url: https://store.steampowered.com/news/app/387990/view/1705071932966678598
 ---
 
 <head>

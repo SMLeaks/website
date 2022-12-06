@@ -5,7 +5,7 @@ description: New devblog, coming through! This time, we want to focus on a few t
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/3057351918255325053
+original_url: https://store.steampowered.com/news/app/387990/view/3057351918255325053
 ---
 
 <head>

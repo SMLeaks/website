@@ -5,7 +5,7 @@ description: We're back with another exciting devblog! We've got some cool new s
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/626373004006966592
+original_url: https://store.steampowered.com/news/app/387990/view/626373004006966592
 ---
 
 <head>

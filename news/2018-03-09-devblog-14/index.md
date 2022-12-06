@@ -5,7 +5,7 @@ description: Hear that rumbling noise? Nope, the washing machine isn't on the bl
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1661138371516554878
+original_url: https://store.steampowered.com/news/app/387990/view/1661138371516554878
 ---
 
 <head>

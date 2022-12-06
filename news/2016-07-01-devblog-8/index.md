@@ -5,7 +5,7 @@ description: Anyway, another great month has gone by with a lot of great progres
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/606114513015686565
+original_url: https://store.steampowered.com/news/app/387990/view/606114513015686565
 ---
 
 <head>

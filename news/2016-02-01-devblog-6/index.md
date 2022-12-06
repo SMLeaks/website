@@ -5,7 +5,7 @@ description: So, Scrap Mechanic is finally available to play on Steam Early Acce
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/85934728296029189
+original_url: https://store.steampowered.com/news/app/387990/view/85934728296029189
 ---
 
 <head>

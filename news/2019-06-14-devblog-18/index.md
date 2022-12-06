@@ -5,7 +5,7 @@ description: It's that time again!  We'll take you on a trip down development la
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1600381633540057443
+original_url: https://store.steampowered.com/news/app/387990/view/1600381633540057443
 ---
 
 <head>

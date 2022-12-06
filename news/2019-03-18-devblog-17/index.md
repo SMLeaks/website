@@ -5,7 +5,7 @@ description: Set your thrusters to max, because there's a fully-armed and operat
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1806413264830973846
+original_url: https://store.steampowered.com/news/app/387990/view/1806413264830973846
 ---
 
 <head>

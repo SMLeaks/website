@@ -5,7 +5,7 @@ description: It's been a little while since we last parked our construction digg
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/2817427916047053618
+original_url: https://store.steampowered.com/news/app/387990/view/2817427916047053618
 ---
 
 <head>

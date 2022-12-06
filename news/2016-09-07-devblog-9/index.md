@@ -5,7 +5,7 @@ description: Whoop! it's been another amazing month here at Scrap Mechanic HQ. O
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/597113382090601067
+original_url: https://store.steampowered.com/news/app/387990/view/597113382090601067
 ---
 
 <head>

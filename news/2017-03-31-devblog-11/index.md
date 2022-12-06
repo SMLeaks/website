@@ -5,7 +5,7 @@ description: It's that time again - we've managed to sneak some Scrap Mechanic n
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/251480614852690010
+original_url: https://store.steampowered.com/news/app/387990/view/251480614852690010
 ---
 
 <head>

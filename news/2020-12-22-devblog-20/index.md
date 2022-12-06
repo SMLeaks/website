@@ -5,7 +5,7 @@ description: 2020 is coming to a close and we're here to end it on a good note w
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/2943630880659070163
+original_url: https://store.steampowered.com/news/app/387990/view/2943630880659070163
 ---
 
 <head>

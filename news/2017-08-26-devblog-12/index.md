@@ -5,7 +5,7 @@ description: What's that coming over the hill? Is it a devblog? Why yes, it most
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
-original_url: https://steamcommunity.com/games/387990/announcements/detail/1438192434392958122
+original_url: https://store.steampowered.com/news/app/387990/view/1438192434392958122
 ---
 
 <head>

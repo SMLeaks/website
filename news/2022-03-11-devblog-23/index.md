@@ -5,6 +5,7 @@ description: Welcome to another dev blog, full of fun news! We'll start with som
 image: ./title.png
 toc_max_heading_level: 4
 authors: kacper
+original_url: https://store.steampowered.com/news/app/387990/view/3129444399315676278
 ---
 
 <head>

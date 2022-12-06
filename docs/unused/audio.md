@@ -4,6 +4,12 @@ sidebar_position: 1
 id: audio
 ---
 
+:::caution 
+
+Skipping ahead in these audio files can cause them to bug out and become **very loud static noise** due to the way they were exported from the game. A fix is planned but is currently unimplemented so **proceed with caution**.
+
+:::
+
 ## NPE
 ### NPE_Turret_Activate
 <audio controls>
@@ -27,7 +33,7 @@ id: audio
 </audio>
 
 ## Caves
-> Confirmed in [Devblog 20](/devblog/20#going-underground)
+> Confirmed in [Devblog 20 - "Going Underground"](/news/devblog-20#going-underground)
 
 ### amb_2D_cave_base
 <audio controls>
@@ -51,7 +57,7 @@ id: audio
 </audio>
 
 ## Digital Clock Alarms
-> Possibly from [Devblog 21](/devblog/21#digital-clock)
+> Possibly from [Devblog 21 - "Digital Clock"](/news/devblog-21#digital-clock)
 
 ### alarm01
 <audio controls>

@@ -37,3 +37,38 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.medium-zoom-overlay {
+  background: transparent !important;
+  z-index: 10000 !important;
+}
+
+.medium-zoom-image--opened {
+  z-index: 20000 !important;
+}
+
+.medium-zoom--opened #__docusaurus {
+  filter: blur(4px) !important;
+}
+
+#__docusaurus {
+  filter: blur(0px);
+  transition: all .3s cubic-bezier(.2,0,.2,1) !important;
+}
+
+a[href='#docusaurus_skipToContent_fallback'] {
+  display: none;
+}
+
+
+a.nolink {
+  color: var(--ifm-font-color-base) !important;
+}
+
+a.ahash {
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 0.5rem);
+}
+
+.menu__link {
+  line-height: 1.1 !important;
+}

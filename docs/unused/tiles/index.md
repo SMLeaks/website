@@ -4,8 +4,10 @@ sidebar_position: 5
 id: tiles
 ---
 
-### Unused Tile Asset Icons
-> Found by BananaCat, Updated Icons from Red Gal
+import Credit from "/src/theme/Credit.tsx"
+
+### Tile Asset Icons
+> Found by <Credit id="bananacat"/>, Updated Icons from <Credit id="red-gal"/>
 
 ![](./unused-asset-icons/0304c2b5-bfd4-4595-9401-1a868f5ad901.png)
 ![](./unused-asset-icons/098bbfbb-121a-4cf3-8368-202fe581e23f.png)
@@ -40,11 +42,11 @@ id: tiles
 ![](./unused-asset-icons/f6c3542c-8c23-44d9-b51a-a55c48a9d312.png)
 ![](./unused-asset-icons/f6cf1aa1-ee0c-4904-ae8f-0701071940c6.png)
 
-### Hidden Node Icons
-> Found by Red Gal
+### Node Icons
+> Found by <Credit id="red-gal"/>
 
 :::note
-Added in 0.6.0
+Mostly all nodes shown here were added in the 0.6.0 update.
 :::
 
 ![](./hidden-node-icons/AreaTriggerIcon.png)
@@ -65,7 +67,7 @@ Added in 0.6.0
 ![](./hidden-node-icons/WaypointIcon.png)
 ![](./hidden-node-icons/WocIcon.png)
 
-### Unused "GAS" Nodes
-> Found by Dart Frog
+### "GAS" Node
+> Found by <Credit id="dart-frog"/>
 
 ![](./gas-nodes.png)

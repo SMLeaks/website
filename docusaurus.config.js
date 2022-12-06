@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const fs = require('fs')
 
-if(fs.existsSync('version.txt') && process.env.VERSION === undefined) {
+if (fs.existsSync('version.txt') && process.env.VERSION === undefined) {
   process.env.VERSION = fs.readFileSync('version.txt').toString()
 }
 
@@ -16,7 +16,7 @@ const build = {
   url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:3000',
 }
 
-if(build.commit) build.commit = build.commit.slice(0, 7)
+if (build.commit) build.commit = build.commit.slice(0, 7)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -37,7 +37,28 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
   organizationName: 'SMLeaks',
-  projectName: 'website'
+  projectName: 'website',
+  plugins: [
+    'docusaurus-plugin-image-zoom',
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/developer-qna',
+            to: '/news/developer-qna'
+          }
+        ],
+        createRedirects(path) {
+          if (path.startsWith('/news/devblog-')) return [
+            path.replace('/news/devblog-', '/devblog/'),
+            path.replace('/news/devblog-', '/devblogs/')
+          ];
+          return undefined;
+        },
+      }
+    ]
+  ]
 };
 
 config.presets = [
@@ -54,13 +75,13 @@ config.presets = [
       },
       blog: {
         showReadingTime: true,
-        editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main/devblogs`,
-        path: './devblogs',
-        routeBasePath: '/devblog',
-        blogSidebarTitle: '📚 Devblogs',
+        editUrl: `https://github.com/${config.organizationName}/${config.projectName}/blob/main/news`,
+        path: './news',
+        routeBasePath: '/news',
+        blogSidebarTitle: '📰 News',
         blogSidebarCount: 'ALL',
         postsPerPage: 5,
-        blogTitle: '📚 Devblogs'
+        blogTitle: '📰 News'
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),
@@ -69,17 +90,17 @@ config.presets = [
   ],
 ];
 
-let copyright = `Copyright © ${new Date().getFullYear()} ${config.title}`
+let copyright = `Copyright © {date} ${config.title}`
 
-if(build.version) {
+if (build.version) {
   copyright += ` | <a href="https://github.com/${config.organizationName}/${config.projectName}/releases/tag/v${build.version}">v${build.version}`
-  if(build.branch) copyright += `-${build.branch}`
-  if(build.commit) copyright += `+${build.commit}`
+  if (build.branch) copyright += `-${build.branch}`
+  if (build.commit) copyright += `+${build.commit}`
   copyright += "</a>"
 } else {
   copyright += ' | Build '
-  if(build.branch) copyright += `${build.branch}-`
-  if(build.commit) copyright += `${build.commit}`
+  if (build.branch) copyright += `${build.branch}-`
+  if (build.commit) copyright += `${build.commit}`
 }
 /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 config.themeConfig = {
@@ -132,6 +153,16 @@ config.themeConfig = {
     theme: lightCodeTheme,
     darkTheme: darkCodeTheme,
   },
+  zoom: {
+    selector: '.markdown :not(em) > img',
+    background: {
+      light: 'rgb(255, 255, 255)',
+      dark: 'rgb(50, 50, 50)'
+    },
+    config: {
+      margin: 24
+    }
+  }
 }
 
 module.exports = config;

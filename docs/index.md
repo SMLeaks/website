@@ -4,16 +4,18 @@ id: home
 sidebar_position: 1
 ---
 
+import constants from "/src/constants.ts"
+import CreditExternal from "./_components/_credit_external.mdx"
+
 ## Welcome to SMLeaks!
 
-The community run leaking website for [Scrap Mechanic](https://store.steampowered.com/app/387990/).
+This is a community run leaking website for the game [Scrap Mechanic](https://store.steampowered.com/app/387990/).
 
-This is currently being run and maintained by [Turbo Biscuit](https://trbo.dev).
+This is currently being maintained by <CreditExternal id="trbodev" href="https://trbo.dev"/> and the [SMLeaks Discord](pathname:///discord)!
 
-You can also check out our [Discord](pathname:///discord)!
+:::danger WARNING! SPOILERS AHEAD!
 
-:::danger SPOILERS AHEAD!
-
-Most of the content shown here contains spoilers for upcoming features and content. It also spoils a majority of the storyline for future updates. ***PROCEED WITH CAUTION***.
+Most of the content shown here contains spoilers for upcoming features and content. It also spoils a majority of the storyline for possible future updates.<br/> 
+***PROCEED AT YOUR OWN RISK***.
 
 :::

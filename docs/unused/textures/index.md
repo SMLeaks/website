@@ -2,76 +2,69 @@
 title: 📷 Unused Textures
 sidebar_position: 4
 id: textures
+toc_max_heading_level: 4
 ---
 
-### Outfit Package Unused Textures
-> Found by Turbo Biscuit
+import Credit from "/src/theme/Credit.tsx"
+
+### Outfit Package Hidden Icons
+> Found by <Credit id="trbodev"/>
 
 ![](./outfitpackge.png)
 
 ### Dead Duck
-> Found by Turbo Biscuit
+> Found by <Credit id="trbodev"/>
 
 ![](./deadduckhead.png)
 
-### Mechanic Station Billboard Unused Alt Texture
-> Found by Turbo Biscuit
+### Mechanic Station Billboard Alternate Texture
+> Found by <Credit id="trbodev"/>
 
 ![](./mechanicstationbillboardalt.png)
 
-### Challange Mode "Unlock Dress"
-> Found by [Mateusz Perczak](https://github.com/MateuszPerczak)
+### Challenge Mode "Unlock Dress"
+> Found by <Credit id="mateusz-perczak"/>
 :::note
 Added in 0.6.0
 :::
 ![](./challengemode_unlock_dress.png)
 
 ### Old Warehouse Key
-> Found by Red Gal
+> Found by <Credit id="red-gal"/>
 
 ![](./old-warehouse-key.png)
 
-### Unused Quest Markers
-> Found by Dart Frog and Turbo Biscuit
+### Quest Markers
+> Found by <Credit id="dart-frog"/> and <Credit id="trbodev"/>
 
 ![](./icon_lostitem_large.png)
 ![](./icon_mechanicstation_large.png)
 ![](./icon_spaceship_large.png)
 
-### Unused Tile Editor Icons
-> Found by Red Gal, Turbo Biscuit and Dart Frog
+### Tile Editor Icons
+> Found by <Credit id="red-gal"/>, <Credit id="trbodev"/> and <Credit id="dart-frog"/>
 
-
-> `placeholder`
-
+#### `placeholder`
 ![](./ed_icon_placeholder.png)
 
-
-> `tilehigh`
-
+#### `tilehigh`
 ![](./ed_icon_tilehigh.png)
 
-
-> `tilemid`
-
+#### `tilemid`
 ![](./ed_icon_tilemid.png)
 
-
-> `tilelow`
-
+#### `tilelow`
 ![](./ed_icon_tilelow.png)
 
-
-> `voxelmesh`
-
+#### `voxelmesh`
 ![](./ed_gizmo_voxelmesh.png)
 
-### Unused Test Decals
-> Found by Red Gal
+### Test Decals
+> Found by <Credit id="red-gal"/>
 
 ![](./test-decals.png)
 
-### Hidden "help"
-> Found by Red Gal
+### Hidden "help" in Warehouse Filing Cabinet Texture
+> Found by <Credit id="red-gal"/>
 
 ![](./help.png)

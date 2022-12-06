@@ -21,8 +21,11 @@ const sidebars = {
     },
     {
       type: 'link',
-      href: '/devblog',
-      label: '📚 Devblogs'
+      href: '/news',
+      label: '📰 News',
+      customProps: {
+        new: true
+      }
     }
   ],
 };

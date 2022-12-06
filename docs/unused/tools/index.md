@@ -4,10 +4,12 @@ sidebar_position: 2
 id: tools
 ---
 
-### Lift Remote
-> Mentioned in [Devblog 17](/devblog/17#a-big-lift)
+import Credit from "/src/theme/Credit.tsx"
 
-> Found and Rendered by Charging Turnip
+### Lift Remote
+> Mentioned in [Devblog 17 - "A Big Lift"](/news/devblog-17#a-big-lift)
+
+> Found and Rendered by <Credit id="charging-turnip"/>
 
 ![](./liftremote.png)
 
@@ -23,20 +25,20 @@ id: tools
 />
 
 ### Garden Shovel
-> Found by Charging Turnip, Images by rockstar modder
+> Found by <Credit id="charging-turnip"/>, Images by <Credit id="rockstar-modder"/>
 
 ![](./garden-shovel-hand.png)
 ![](./garden-shovel-color.png)
 
 ### Spline Camera Showcase
-> Video by Red Gal
+> Video by <Credit id="red-gal"/>
 
-:::caution
-This tool was removed in 0.6.0 but may return in a future update as mentioned in [Devblog 23](/devblog/23#cinematic-tool).
+:::caution Notice
+This tool was removed in 0.6.0 but may return in a future update as mentioned in [Devblog 23 - "Cinematic Tool"](/news/devblog-23#cinematic-tool).
 :::
 
 :::tip Usage Instructions
-> Obtained by using the `/camera` command in survival mode while survival dev is enabled. 
+> Obtained by using the `/camera` command in survival mode when `g_survivalDev` is `true`. 
 
 |Action|Keybind|Default Keybind Key|
 |-|-|-|
@@ -47,7 +49,7 @@ This tool was removed in 0.6.0 but may return in a future update as mentioned in
 :::
 
 :::caution
-To load a spline path from disk you must remove the current spline path first or else you will overwrite the spline path on disk with the currently loaded spline path.
+To load a spline path from disk you must move or remove the current spline path on disk first **or else you will permanently overwrite the spline path on disk with the currently loaded spline path.**
 :::
 
 <video

@@ -129,3 +129,8 @@ import Credit from "/src/theme/Credit.tsx"
   loop
   style={{ width: '100%' }}
 />
+
+### `p_player_sleep`
+> Found by <Credit id="red-gal"/>, GIF by <Credit id="trbodev"/>
+
+![](./player_sleep.gif)

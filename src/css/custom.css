@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: #E67E22;
   --ifm-color-primary-lightest: #E67E22;
   --ifm-code-font-size: 95%;
+  --ifm-sidebar-new-badge-background: var(--ifm-color-danger);
+  --ifm-sidebar-new-badge-color: var(--ifm-color-white);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -25,6 +27,8 @@
   --ifm-color-primary-light: #E67E22;
   --ifm-color-primary-lighter: #E67E22;
   --ifm-color-primary-lightest: #E67E22;
+  --ifm-sidebar-new-badge-background: var(--ifm-color-danger-darkest);
+  --ifm-sidebar-new-badge-color: var(--ifm-color-gray-300);
 }
 
 .docusaurus-highlight-code-line {
@@ -71,6 +75,7 @@ a.ahash {
 
 .menu__link {
   line-height: 1.1 !important;
+  padding: var(--ifm-menu-link-padding-vertical) var(--ifm-menu-link-padding-horizontal) calc(var(--ifm-menu-link-padding-vertical) + 2px) var(--ifm-menu-link-padding-horizontal) !important;
 }
 
 .navbar-sidebar {
@@ -78,4 +83,16 @@ a.ahash {
   height: 100vh;
   top: 0;
   left: 0;
+}
+
+.sidebar-item-new-badge {
+  text-transform: uppercase;
+  font-size: 12px;
+  margin-left: 4px;
+  padding: 2px 4px 3px 4px;
+  background-color: var(--ifm-sidebar-new-badge-background);
+  color: var(--ifm-sidebar-new-badge-color);
+  border-radius: 8px;
+  font-weight: 700;
+  transform: translateY(2px);
 }

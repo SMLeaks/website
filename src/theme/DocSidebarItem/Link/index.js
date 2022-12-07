@@ -43,15 +43,7 @@ export default function DocSidebarItemLink({
         {...props}>
         {label}
         {!isInternalLink && <IconExternalLink />}
-        {item.customProps?.new && <span style={{
-          textTransform: 'uppercase',
-          fontSize: 12,
-          marginLeft: 4,
-          marginTop: 3,
-          padding: '2px 4px',
-          backgroundColor: 'var(--ifm-color-danger-darkest)',
-          borderRadius: 8
-        }}>new!</span>}
+        {item.customProps?.new && <span className="sidebar-item-new-badge">new!</span>}
       </Link>
     </li>
   );

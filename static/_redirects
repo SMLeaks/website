@@ -1,7 +1,5 @@
 /devblogs /news 307
-/devblogs/* /news/devblog-:splat 307
 /devblog /news 307
-/devblog/* /news/devblog-:splat 307
 /developer-qna /news/developer-qna 307
 
 /discord https://discord.gg/AsPKp9r 307
@@ -32,3 +30,6 @@
 /news/devblog-3/original https://www.scrapmechanic.com/news/devblog-3-is-here/ 307
 /news/devblog-2/original https://www.scrapmechanic.com/news/devblog-2-is-here/ 307
 /news/devblog-1/original https://www.scrapmechanic.com/news/devblog-1-is-here/ 307
+
+/devblogs/* /news/devblog-:splat 307
+/devblog/* /news/devblog-:splat 307

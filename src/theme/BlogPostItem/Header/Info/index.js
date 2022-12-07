@@ -4,6 +4,7 @@ import { translate } from '@docusaurus/Translate';
 import { usePluralForm } from '@docusaurus/theme-common';
 import { useBlogPost } from '@docusaurus/theme-common/internal';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 // Very simple pluralization: probably good enough for now
 function useReadingTimePlural() {
   const { selectMessage } = usePluralForm();
@@ -52,7 +53,7 @@ export default function BlogPostItemHeaderInfo({ className }) {
       {typeof frontMatter.original_url !== 'undefined' && (
         <>
           <Spacer />
-          <a href={frontMatter.original_url} target="_blank" rel="noopener noreferrer">Original</a>
+          <Link href={frontMatter.original_url}>Original</Link>
         </>
       )}
     </div>

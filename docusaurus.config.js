@@ -47,6 +47,10 @@ const config = {
           {
             from: '/developer-qna',
             to: '/news/developer-qna'
+          },
+          {
+            from: ['/devblogs', '/devblog'],
+            to: '/news'
           }
         ],
         createRedirects(path) {

@@ -14,6 +14,7 @@ const build = {
   commit: process.env.CF_PAGES_COMMIT_SHA,
   branch: process.env.CF_PAGES_BRANCH,
   url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:3000',
+  date: new Date(),
 }
 
 if (build.commit) build.commit = build.commit.slice(0, 7)
@@ -69,7 +70,7 @@ const config = {
   ],
   customFields: {
     build: {
-      date: new Date().toISOString()
+      date: build.date.toISOString(),
     }
   }
 };
@@ -104,7 +105,7 @@ config.presets = [
 ];
 
 // @ts-ignore
-let copyright = `Copyright © ${new Date(config.customFields.build.date).getFullYear()} ${config.title}`
+let copyright = `Copyright © ${build.date.getFullYear()} ${config.title}`
 
 if (build.version) {
   copyright += ` | <a href="https://github.com/${config.organizationName}/${config.projectName}/releases/tag/v${build.version}">v${build.version}`

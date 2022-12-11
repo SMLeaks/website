@@ -13,6 +13,7 @@
         "devblogs",
         "docusaurus",
         "credits",
-        "unused/survival-prerelease"
+        "unused/survival-prerelease",
+        "docusaurus/theme/footer"
     ]
 }

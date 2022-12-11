@@ -51,6 +51,10 @@ const config = {
           {
             from: ['/devblogs', '/devblog'],
             to: '/news'
+          },
+          {
+            from: '/unused/pre-release',
+            to: '/unused/survival-prerelease'
           }
         ],
         createRedirects(path) {

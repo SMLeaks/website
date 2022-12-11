@@ -1,7 +1,7 @@
 ---
 title: 🔐 Unused Survival Pre-Release
 sidebar_position: 7
-id: pre-release
+id: survival-prerelease
 ---
 
 import Credit from "/src/theme/Credit.tsx"

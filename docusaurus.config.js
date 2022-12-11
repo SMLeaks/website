@@ -66,7 +66,12 @@ const config = {
         },
       }
     ]
-  ]
+  ],
+  customFields: {
+    build: {
+      date: new Date().toISOString()
+    }
+  }
 };
 
 config.presets = [
@@ -98,7 +103,8 @@ config.presets = [
   ],
 ];
 
-let copyright = `Copyright © {date} ${config.title}`
+// @ts-ignore
+let copyright = `Copyright © ${new Date(config.customFields.build.date).getFullYear()} ${config.title}`
 
 if (build.version) {
   copyright += ` | <a href="https://github.com/${config.organizationName}/${config.projectName}/releases/tag/v${build.version}">v${build.version}`
@@ -127,6 +133,11 @@ config.themeConfig = {
     {
       name: "apple-mobile-web-app-status-bar-style",
       content: "#E67E22"
+    },
+    {
+      name: 'smleaks:build.date',
+      // @ts-ignore
+      content: config.customFields.build.date
     }
   ],
   image: 'favicon.png',

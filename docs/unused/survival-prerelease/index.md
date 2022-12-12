@@ -4,8 +4,6 @@ sidebar_position: 7
 id: survival-prerelease
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Mechanic Station Gas Pump
 > Image by @red-gal
 

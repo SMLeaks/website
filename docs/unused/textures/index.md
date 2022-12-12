@@ -5,8 +5,6 @@ id: textures
 toc_max_heading_level: 4
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Outfit Package Hidden Icons
 > Found by @trbodev
 

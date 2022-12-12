@@ -4,8 +4,6 @@ sidebar_position: 9
 id: animations
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ## Totebot Sleeping Animations
 > Videos by @dart-frog
 

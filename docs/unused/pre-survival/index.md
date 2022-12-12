@@ -4,8 +4,6 @@ sidebar_position: 8
 id: pre-survival
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Hanging Character 
 > `hang.mesh`
 

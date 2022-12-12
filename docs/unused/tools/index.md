@@ -4,8 +4,6 @@ sidebar_position: 2
 id: tools
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Lift Remote
 > Mentioned in [Devblog 17 - "A Big Lift"](/news/devblog-17#a-big-lift)
 

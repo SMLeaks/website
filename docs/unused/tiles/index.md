@@ -4,8 +4,6 @@ sidebar_position: 5
 id: tiles
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Tile Asset Icons
 > Found by @bananacat, Updated Icons from @red-gal
 

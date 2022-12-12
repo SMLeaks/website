@@ -4,8 +4,6 @@ sidebar_position: 2
 id: items
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 :::note
 Most of this stuff has been added to the game in the 0.4.8 update.
 :::

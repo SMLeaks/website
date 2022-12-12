@@ -4,8 +4,6 @@ sidebar_position: 3
 id: parts
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ### Plastic Pumpkin
 > Found by @trbodev, Files from @technologic-nick, Rendered by @charging-turnip
 

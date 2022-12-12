@@ -4,8 +4,6 @@ sidebar_position: 6
 id: particles
 ---
 
-import Credit from "/src/theme/Credit.tsx"
-
 ## Encryptor
 
 ### Encryptor Turn On

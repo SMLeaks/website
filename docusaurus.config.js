@@ -40,40 +40,67 @@ const config = {
   organizationName: 'SMLeaks',
   projectName: 'website',
   plugins: [
-    'docusaurus-plugin-image-zoom',
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        redirects: [
-          {
-            from: '/developer-qna',
-            to: '/news/developer-qna'
-          },
-          {
-            from: ['/devblogs', '/devblog'],
-            to: '/news'
-          },
-          {
-            from: '/unused/pre-release',
-            to: '/unused/survival-prerelease'
-          }
-        ],
-        createRedirects(path) {
-          if (path.startsWith('/news/devblog-')) return [
-            path.replace('/news/devblog-', '/devblog/'),
-            path.replace('/news/devblog-', '/devblogs/')
-          ];
-          return undefined;
-        },
-      }
-    ]
+    'docusaurus-plugin-image-zoom'
   ],
   customFields: {
     build: {
       date: build.date.toISOString(),
-    }
+    },
   }
 };
+
+const redirects = {
+  'https://discord.gg/AsPKp9r': '/discord',
+  [`https://github.com/${config.organizationName}/${config.projectName}`]: '/github',
+  '/news/developer-qna': '/developer-qna',
+  '/news': ['/devblogs', '/devblog'],
+  '/unused/survival-prerelease': '/unused/pre-release',
+  '/news/devblog-:splat': ['/devblogs/*', '/devblog/*'],
+}
+
+let _redirects = {}
+
+Object.entries(redirects).forEach(([to, from]) => {
+  (Array.isArray(from) ? from : [from]).forEach(from => {
+    _redirects[to] = from
+  })
+});
+
+let _wildcard_client_redirects = {}
+
+Object.entries(_redirects).filter(([to, from]) => {
+  return to.includes(':splat') && from.includes('*')
+}).forEach(([to])=>{
+  let from = redirects[to];
+  _wildcard_client_redirects[to.replace(':splat','')] = (Array.isArray(from) ? from : [from]).map(f=>f.replace('*', ''))
+});
+
+config.plugins.push([
+  './src/plugin',
+  {
+    redirects
+  }
+])
+
+config.plugins.push([
+  '@docusaurus/plugin-client-redirects',
+  {
+    redirects: Object.entries(_redirects).filter(([to, from]) => {
+      return to.startsWith('/') && from.startsWith('/') && !to.includes(':splat') && !from.includes('*')
+    }).map(([to])=>{
+      return {
+        to,
+        from: redirects[to]
+      }
+    }),
+    createRedirects(path) {
+      let found = Object.entries(_wildcard_client_redirects).find(([to])=> path.startsWith(to));
+      
+      if (found) return found[1].map(f=> path.replace(found[0], f))
+      return undefined;
+    },
+  }
+])
 
 config.presets = [
   [

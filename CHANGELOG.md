@@ -1,5 +1,28 @@
 # Changelog
 
+## [6.0.0](https://github.com/SMLeaks/website/compare/v5.6.3...v6.0.0) (2022-12-12)
+
+
+### Features
+
+* **credits:** use `@` mentions + remark plugin ([4e0de55](https://github.com/SMLeaks/website/commit/4e0de55703c917d5e4140f95ec7e60daa615e749))
+* **devblogs:** add devblog 23 & 24 original urls ([8f49cf4](https://github.com/SMLeaks/website/commit/8f49cf4165e5e65f101c6ae7987ae16aa502aef4))
+* **docusaurus/config:** add client side redirects for `/devblog` & `/devblogs` to `/news` ([1c7525b](https://github.com/SMLeaks/website/commit/1c7525bf8696d50f07f148f1cec8d46b3ab3adf0))
+* **docusaurus/config:** store build date for footer copyright year replacement ([8c541dd](https://github.com/SMLeaks/website/commit/8c541dd0ad4281adfc45de2566887741b1386cc7))
+* **docusaurus/config:** update news feed description ([2eb9943](https://github.com/SMLeaks/website/commit/2eb99431188efc34472c6cea837f21b5ffd5d2e0))
+* **docusaurus/theme:** make blog sidebar title a link back to blog plugin `routeBasePath` option ([44b2dcb](https://github.com/SMLeaks/website/commit/44b2dcbdfc3706c547042b1f42583e4ac8a3ffb7))
+* generate cloudflare pages `_redirects` file and docusaurus client redirects dynamically ([283df6e](https://github.com/SMLeaks/website/commit/283df6ec93887147660336bcf3b468a838a0641f))
+* the megafix (break stuff and see what happens) ([18f56ab](https://github.com/SMLeaks/website/commit/18f56abda20149e020132d6806dffdb8464f8c00))
+* **unused/particles:** add `p_player_sleep` ([42e9bcf](https://github.com/SMLeaks/website/commit/42e9bcfdf9a9f70e344a9424882cbbf5312e3bab))
+
+
+### Bug Fixes
+
+* **docs/home:** hide welcome text from table of contents ([f8cf009](https://github.com/SMLeaks/website/commit/f8cf009ea9c3260398a443d9a09b064a115edc89))
+* **docusaurus/theme:** remove `twitter:card=summary_large_image` meta tag from all pages except news posts ([d1f6302](https://github.com/SMLeaks/website/commit/d1f630224c92444fe93eb1b81ed18807c1c27e1b))
+* **docusaurus:** fix "NEW!" sidebar badge styling for light mode ([d82f489](https://github.com/SMLeaks/website/commit/d82f489be051bed621d0ed26d0164248edc2dab3))
+* **docusaurus:** make mobile sidebar not move when scrolled down the page ([7135f7b](https://github.com/SMLeaks/website/commit/7135f7b5dc778d8d7b4da0fd0db00adc85f325de))
+
 ### [5.6.3](https://github.com/SMLeaks/website/compare/v5.6.2...v5.6.3) (2022-10-04)
 
 

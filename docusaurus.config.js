@@ -95,7 +95,10 @@ config.presets = [
         blogSidebarTitle: '📰 News',
         blogSidebarCount: 'ALL',
         postsPerPage: 5,
-        blogTitle: '📰 News'
+        blogTitle: '📰 News',
+        feedOptions: {
+          description: `${config.title} News`
+        },
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),

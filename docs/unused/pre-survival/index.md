@@ -9,14 +9,14 @@ import Credit from "/src/theme/Credit.tsx"
 ### Hanging Character 
 > `hang.mesh`
 
-> Image by <Credit id="dart-frog"/>
+> Image by @dart-frog
 
 **[Click to see potentially disturbing content](./hanging-character.png)**
 
 ### Indestructable Block
 > "*Commented out in 0.1.16, Wasn't actually irremovable. It disappeared from the files in 0.2 or earlier. Nowadays we have a successor to this block called the Framework Block, it's used heavily in the warehouses and is permanently encrypted.*"
 
-> Images and comment by <Credit id="dart-frog"/>
+> Images and comment by @dart-frog
 
 ![](./indestructable-block.png)
 <video
@@ -46,7 +46,7 @@ import Credit from "/src/theme/Credit.tsx"
 ### Insulation Block
 > "*Was commented out in the files and removed in 0.2 or earlier. An updated version of this block has been added to the game in the Survival Update (0.4.0)*"
 
-> Images and comment by <Credit id="dart-frog"/>
+> Images and comment by @dart-frog
 
 ![](./insulation-block.png)
 <video
@@ -76,7 +76,7 @@ import Credit from "/src/theme/Credit.tsx"
 ### Beta Spaceship Block
 > "*Was commented out in the files and removed in 0.2 or earlier. Unlike the other 2 commented blocks, it had no description or name in the inventory, and it's preview was larger than all other blocks. It was officially added to the game in version 0.2.11*"
 
-> Images and comment by <Credit id="dart-frog"/>
+> Images and comment by @dart-frog
 
 ![](./spaceship-block.png)
 <video
@@ -104,6 +104,6 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Ship Tile
-> Image by <Credit id="dart-frog"/>
+> Image by @dart-frog
 
 ![](./ship-tile.png)

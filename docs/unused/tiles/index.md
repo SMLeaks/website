@@ -7,7 +7,7 @@ id: tiles
 import Credit from "/src/theme/Credit.tsx"
 
 ### Tile Asset Icons
-> Found by <Credit id="bananacat"/>, Updated Icons from <Credit id="red-gal"/>
+> Found by @bananacat, Updated Icons from @red-gal
 
 ![](./unused-asset-icons/0304c2b5-bfd4-4595-9401-1a868f5ad901.png)
 ![](./unused-asset-icons/098bbfbb-121a-4cf3-8368-202fe581e23f.png)
@@ -43,7 +43,7 @@ import Credit from "/src/theme/Credit.tsx"
 ![](./unused-asset-icons/f6cf1aa1-ee0c-4904-ae8f-0701071940c6.png)
 
 ### Node Icons
-> Found by <Credit id="red-gal"/>
+> Found by @red-gal
 
 :::note
 Mostly all nodes shown here were added in the 0.6.0 update.
@@ -68,6 +68,6 @@ Mostly all nodes shown here were added in the 0.6.0 update.
 ![](./hidden-node-icons/WocIcon.png)
 
 ### "GAS" Node
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 ![](./gas-nodes.png)

@@ -4,7 +4,7 @@ id: home
 sidebar_position: 1
 ---
 
-import constants from "/src/constants.ts"
+import constants from "/src/constants.mjs"
 import CreditExternal from "./_components/_credit_external.mdx"
 
 ## Welcome to SMLeaks!

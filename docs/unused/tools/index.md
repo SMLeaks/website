@@ -9,7 +9,7 @@ import Credit from "/src/theme/Credit.tsx"
 ### Lift Remote
 > Mentioned in [Devblog 17 - "A Big Lift"](/news/devblog-17#a-big-lift)
 
-> Found and Rendered by <Credit id="charging-turnip"/>
+> Found and Rendered by @charging-turnip
 
 ![](./liftremote.png)
 
@@ -25,13 +25,13 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Garden Shovel
-> Found by <Credit id="charging-turnip"/>, Images by <Credit id="rockstar-modder"/>
+> Found by @charging-turnip, Images by @rockstar-modder
 
 ![](./garden-shovel-hand.png)
 ![](./garden-shovel-color.png)
 
 ### Spline Camera Showcase
-> Video by <Credit id="red-gal"/>
+> Video by @red-gal
 
 :::caution Notice
 This tool was removed in 0.6.0 but may return in a future update as mentioned in [Devblog 23 - "Cinematic Tool"](/news/devblog-23#cinematic-tool).

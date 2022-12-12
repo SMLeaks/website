@@ -11,16 +11,16 @@ Most of this stuff has been added to the game in the 0.4.8 update.
 :::
 
 ## Logbook GUI
-> Found by <Credit id="futuremapper"/>
+> Found by @futuremapper
 
 ![](./gui.png)
 
 ## Waypoint GUI
-> Found by <Credit id="futuremapper"/>
+> Found by @futuremapper
 
 ![](./waypoint-gui.png)
 
 ## Logbook GUI Mockup
-> Created by <Credit id="rockstar-modder"/>
+> Created by @rockstar-modder
 
 ![](./gui-mockup.png)

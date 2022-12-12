@@ -9,12 +9,12 @@ import Credit from "/src/theme/Credit.tsx"
 ## Encryptor
 
 ### Encryptor Turn On
-> Found by <Credit id="trbodev"/>
+> Found by @trbodev
 
 ![](./encryptorblast.png)
 
 ### Encryptor Particle Showcase
-> Video by <Credit id="tomatech"/>
+> Video by @tomatech
 
 <video
   src="/videos/encryptorparticle.mp4"
@@ -24,7 +24,7 @@ import Credit from "/src/theme/Credit.tsx"
 
 
 ### Encryptor "barrier_hit"
-> Found by <Credit id="donut"/>
+> Found by @donut
 
 <video
   src="https://cdn.discordapp.com/attachments/709877116224667749/984121024524189756/barrier_hit.mp4"
@@ -35,7 +35,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Encryptor "barrier_impact"
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 <video
   src="https://thumbs.gfycat.com/PresentTautDolphin-mobile.mp4"
@@ -46,7 +46,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Encryptor "barrier_impact_hit"
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 <video
   src="https://cdn.discordapp.com/attachments/709877116224667749/984121446492147782/barrier_impact_hit.mp4"
@@ -59,7 +59,7 @@ import Credit from "/src/theme/Credit.tsx"
 ## Audio Log Particles
 
 ### Audio Log Particle
-> Found by <Credit id="question-mark"/>
+> Found by @question-mark
 
 <video
   src="/videos/audio-log-particle.mp4"
@@ -68,7 +68,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Audio Log Pickup Particle
-> Found by <Credit id="question-mark"/>
+> Found by @question-mark
 
 <video
   src="/videos/audio-log-pickup-particle.mp4"
@@ -79,7 +79,7 @@ import Credit from "/src/theme/Credit.tsx"
 ## Challenge Mode Particles
 
 ### Challenge Mode Roof Crane
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 <video
   src="https://thumbs.gfycat.com/NextSparseFishingcat-mobile.mp4"
@@ -90,14 +90,14 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Challenge Builder Blue Floor
-> Found by <Credit id="red-gal"/>
+> Found by @red-gal
 
 ![](./challenge-builder-blue-floor.png)
 
 ## Other Particles
 
 ### More unused particles showcase
-> Found by <Credit id="shrootoo"/><br/>
+> Found by @shrootoo<br/>
 > Names (in order of appearance): Orientation, Placeholder 1-3
 
 <iframe 
@@ -109,7 +109,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### Orientation Particle "Lasers"
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 <video
   src="https://thumbs.gfycat.com/RealHappyFlea-mobile.mp4"
@@ -120,7 +120,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### "Falling" Particle
-> Found by <Credit id="dart-frog"/>
+> Found by @dart-frog
 
 <video
   src="https://thumbs.gfycat.com/SneakyEmotionalAnhinga-mobile.mp4"
@@ -131,6 +131,6 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ### `p_player_sleep`
-> Found by <Credit id="red-gal"/>, GIF by <Credit id="trbodev"/>
+> Found by @red-gal, GIF by @trbodev
 
 ![](./player_sleep.gif)

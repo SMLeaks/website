@@ -8,41 +8,41 @@ toc_max_heading_level: 4
 import Credit from "/src/theme/Credit.tsx"
 
 ### Outfit Package Hidden Icons
-> Found by <Credit id="trbodev"/>
+> Found by @trbodev
 
 ![](./outfitpackge.png)
 
 ### Dead Duck
-> Found by <Credit id="trbodev"/>
+> Found by @trbodev
 
 ![](./deadduckhead.png)
 
 ### Mechanic Station Billboard Alternate Texture
-> Found by <Credit id="trbodev"/>
+> Found by @trbodev
 
 ![](./mechanicstationbillboardalt.png)
 
 ### Challenge Mode "Unlock Dress"
-> Found by <Credit id="mateusz-perczak"/>
+> Found by @mateusz-perczak
 :::note
 Added in 0.6.0
 :::
 ![](./challengemode_unlock_dress.png)
 
 ### Old Warehouse Key
-> Found by <Credit id="red-gal"/>
+> Found by @red-gal
 
 ![](./old-warehouse-key.png)
 
 ### Quest Markers
-> Found by <Credit id="dart-frog"/> and <Credit id="trbodev"/>
+> Found by @dart-frog and @trbodev
 
 ![](./icon_lostitem_large.png)
 ![](./icon_mechanicstation_large.png)
 ![](./icon_spaceship_large.png)
 
 ### Tile Editor Icons
-> Found by <Credit id="red-gal"/>, <Credit id="trbodev"/> and <Credit id="dart-frog"/>
+> Found by @red-gal, @trbodev and @dart-frog
 
 #### `placeholder`
 ![](./ed_icon_placeholder.png)
@@ -60,11 +60,11 @@ Added in 0.6.0
 ![](./ed_gizmo_voxelmesh.png)
 
 ### Test Decals
-> Found by <Credit id="red-gal"/>
+> Found by @red-gal
 
 ![](./test-decals.png)
 
 ### Hidden "help" in Warehouse Filing Cabinet Texture
-> Found by <Credit id="red-gal"/>
+> Found by @red-gal
 
 ![](./help.png)

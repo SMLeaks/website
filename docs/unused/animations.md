@@ -7,7 +7,7 @@ id: animations
 import Credit from "/src/theme/Credit.tsx"
 
 ## Totebot Sleeping Animations
-> Videos by <Credit id="dart-frog"/>
+> Videos by @dart-frog
 
 ---
 ### `wakeup`
@@ -37,7 +37,7 @@ import Credit from "/src/theme/Credit.tsx"
 
 ---
 ## Totebot Jumping Animations
-> Videos by <Credit id="dart-frog"/>
+> Videos by @dart-frog
 
 ---
 ### `jump`
@@ -66,7 +66,7 @@ import Credit from "/src/theme/Credit.tsx"
 ---
 
 ## Spudgun Reload Animation
-> Found by <Credit id="vajdani"/>
+> Found by @vajdani
 
 <video
   src="/videos/spudgun-reload.mp4"
@@ -75,7 +75,7 @@ import Credit from "/src/theme/Credit.tsx"
 />
 
 ## Connection Tool Flip Animation
-> Found by <Credit id="vajdani"/>
+> Found by @vajdani
 
 <video
   src="/videos/connection-tool-flip.mp4"

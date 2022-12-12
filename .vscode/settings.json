@@ -1,19 +1,21 @@
 {
     "conventionalCommits.scopes": [
-        "workflows/build-release",
-        "main",
-        "unused/textures",
-        "unused/parts",
-        "unused/audio",
-        "unused/tools",
-        "docusaurus/config",
-        "unused/animations",
-        "unused/particles",
-        "unused/tiles",
-        "devblogs",
+        "docs/home",
+        "docs/credits",
+        "docs/unused/audio",
+        "docs/unused/tools",
+        "docs/unused/parts",
+        "docs/unused/textures",
+        "docs/unused/tiles",
+        "docs/unused/particles",
+        "docs/unused/survival-prerelease",
+        "docs/unused/animations",
+        "news/devblogs",
         "docusaurus",
-        "credits",
-        "unused/survival-prerelease",
-        "docusaurus/theme"
+        "docusaurus/config",
+        "docusaurus/theme",
+        "github/workflows/build-release",
+        "vscode/conventional-commits",
+        "main" // used by release-please
     ]
 }

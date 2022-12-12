@@ -7,10 +7,6 @@ toc_max_heading_level: 4
 original_url: https://store.steampowered.com/news/app/387990/view/4975895695804617040
 ---
 
-<head>
-    <meta name="twitter:card" content="summary_large_image" />
-</head>
-
 ![](./title.png)
 
 **Hi Mechanics!**

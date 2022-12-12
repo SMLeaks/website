@@ -8,10 +8,6 @@ authors: kacper
 original_url: https://store.steampowered.com/news/app/387990/view/3057351918255325053
 ---
 
-<head>
-    <meta name="twitter:card" content="summary_large_image" />
-</head>
-
 ![](./title.png)
 
 **Calling all mechanics!**

@@ -8,10 +8,6 @@ authors: kacper
 original_url: https://store.steampowered.com/news/app/387990/view/597113382090601067
 ---
 
-<head>
-    <meta name="twitter:card" content="summary_large_image" />
-</head>
-
 ![](./title.png)
 
 **Greetings Mechanics!**

@@ -7,10 +7,6 @@ toc_max_heading_level: 4
 original_url: https://www.scrapmechanic.com/news/devblog-4-is-here/
 ---
 
-<head>
-    <meta name="twitter:card" content="summary_large_image" />
-</head>
-
 ![](./title.png)
 
 <!--truncate-->

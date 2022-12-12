@@ -24,10 +24,11 @@ function buildCfPagesRedirectFile(redirects) {
  */
 module.exports = (context, options) => {
     let cfPagesRedirects = {}
+    let name = 'docusaurus-smleaks-internal-plugin'
 
     return {
-        name: 'docusaurus-smleaks-internal-plugin',
-        async contentLoaded({ allContent }) {
+        name,
+        async contentLoaded({ allContent, actions, content }) {
             cfPagesRedirects = {}
             allContent['docusaurus-plugin-content-blog']?.['default']?.blogPosts?.forEach((blogPost) => {
                 if (typeof blogPost.metadata.frontMatter.original_url === 'string') {
@@ -40,6 +41,12 @@ module.exports = (context, options) => {
                     cfPagesRedirects[from] = to
                 })
             })
+            actions.setGlobalData(
+                Object.fromEntries(
+                    Object.entries(allContent['docusaurus-plugin-content-blog'])
+                    .map(([id, content]) => ([id, content.blogTagsListPath.slice(0, -5)]))
+                )
+            );
         },
         async postBuild({ outDir }) {
             await fs.writeFile(path.join(outDir, '_redirects'), buildCfPagesRedirectFile(cfPagesRedirects))

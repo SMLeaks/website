@@ -6,12 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const fs = require('fs')
 
 async function config() {
-  if (fs.existsSync('version.txt') && process.env.VERSION === undefined) {
-    process.env.VERSION = fs.readFileSync('version.txt').toString()
-  }
-
   const build = {
-    version: process.env.VERSION.trim(),
     commit: process.env.CF_PAGES_COMMIT_SHA,
     branch: process.env.CF_PAGES_BRANCH,
     url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:3000',
@@ -45,6 +40,7 @@ async function config() {
     ],
     customFields: {
       build: {
+        ...build,
         date: build.date.toISOString(),
       },
     }
@@ -144,19 +140,6 @@ async function config() {
     ],
   ];
 
-  // @ts-ignore
-  let copyright = `Copyright © ${build.date.getFullYear()} ${config.title}`
-
-  if (build.version) {
-    copyright += ` | <a href="https://github.com/${config.organizationName}/${config.projectName}/releases/tag/v${build.version}">v${build.version}`
-    if (build.branch) copyright += `-${build.branch}`
-    if (build.commit) copyright += `+${build.commit}`
-    copyright += "</a>"
-  } else {
-    copyright += ' | Build '
-    if (build.branch) copyright += `${build.branch}-`
-    if (build.commit) copyright += `${build.commit}`
-  }
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   config.themeConfig = {
     colorMode: {
@@ -174,6 +157,16 @@ async function config() {
       {
         name: "apple-mobile-web-app-status-bar-style",
         content: "#E67E22"
+      },
+      {
+        name: 'smleaks:build.commit',
+        // @ts-ignore
+        content: config.customFields.build.commit
+      },
+      {
+        name: 'smleaks:build.branch',
+        // @ts-ignore
+        content: config.customFields.build.branch
       },
       {
         name: 'smleaks:build.date',
@@ -207,7 +200,7 @@ async function config() {
     },
     footer: {
       style: 'light',
-      copyright
+      copyright: `Copyright © ${build.date.getFullYear()} ${config.title}`
     },
     prism: {
       theme: lightCodeTheme,

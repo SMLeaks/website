@@ -1,13 +1,19 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import React from 'react';
-export default function FooterCopyright({copyright}) {
-  let date = new Date(useDocusaurusContext().siteConfig.customFields.build.date);
+export default function FooterCopyright({ copyright }) {
+  let context = useDocusaurusContext();
+  let date = new Date(context.siteConfig.customFields.build.date);
   return (
-    <div
-      className="footer__copyright"
-      // Developer provided the HTML, so assume it's safe.
-      // eslint-disable-next-line react/no-danger
-      dangerouslySetInnerHTML={{__html: copyright.replace(date.getFullYear(), new Date().getFullYear())}}
-    />
+    <>
+      <span className="footer__copyright">
+        {copyright.replace(date.getFullYear(), new Date().getFullYear())}
+      </span>
+      {' | '}
+      <a href={`https://github.com/${context.siteConfig.organizationName}/${context.siteConfig.projectName}/releases/tag/v${context.siteMetadata.siteVersion}`}>
+        v{context.siteMetadata.siteVersion}
+        {context.siteConfig.customFields.build.branch ? `-${context.siteConfig.customFields.build.branch}` : ''}
+        {context.siteConfig.customFields.build.commit ? `+${context.siteConfig.customFields.build.commit}` : ''}
+      </a>
+    </>
   );
 }

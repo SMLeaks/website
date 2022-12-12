@@ -2,6 +2,7 @@
 title: 🏠 Home
 id: home
 sidebar_position: 1
+toc_min_heading_level: 3
 ---
 
 import constants from "/src/constants.mjs"

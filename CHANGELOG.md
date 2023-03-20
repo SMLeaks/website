@@ -1,5 +1,14 @@
 # Changelog
 
+## [5.7.0](https://github.com/SMLeaks/website/compare/v5.6.3...v5.7.0) (2023-03-20)
+
+
+### Features
+
+* **devblogs:** add devblog 25 placeholder with teaser image ([2d726f6](https://github.com/SMLeaks/website/commit/2d726f60c1e4d10dd951ebd8bdb163211b91a0a6))
+* **devblogs:** add devblog 25 placeholder with teaster image ([5032da4](https://github.com/SMLeaks/website/commit/5032da44d072f2e4b4ae0e6201e13c879cb6e222))
+* **devblogs:** add tweet link to devblog 25 placeholder ([ee0eef6](https://github.com/SMLeaks/website/commit/ee0eef6f24b3dd8f8693bf0d3bd61a43fa9c4b12))
+
 ### [5.6.3](https://github.com/SMLeaks/website/compare/v5.6.2...v5.6.3) (2022-10-04)
 
 

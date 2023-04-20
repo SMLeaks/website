@@ -21,17 +21,17 @@ We're sorry for the long wait, but the features in this devblog have been in the
 <!--truncate-->
 So let's crack open a sunshake and dig in!
 
-![](https://i.imgur.com/C2mi8al.gif)
-![](https://i.imgur.com/KpuBNJJ.gif)
-![](https://i.imgur.com/vbfBCMR.gif)
-![](https://i.imgur.com/A6EU5Uj.gif)
-![](https://i.imgur.com/c5Qeg5r.gif)
-![](https://i.imgur.com/NYi1lY7.png)
-![](https://i.imgur.com/U5SCBdc.png)
-![](https://i.imgur.com/UU4sWzm.png)
-![](https://i.imgur.com/QAFLi1V.png)
-![](https://i.imgur.com/nuUrJfM.png)
-![](https://i.imgur.com/goRaYL8.png)
+![](/images/imgur/C2mi8al.gif)
+![](/images/imgur/KpuBNJJ.gif)
+![](/images/imgur/vbfBCMR.gif)
+![](/images/imgur/A6EU5Uj.gif)
+![](/images/imgur/c5Qeg5r.gif)
+![](/images/imgur/NYi1lY7.png)
+![](/images/imgur/U5SCBdc.png)
+![](/images/imgur/UU4sWzm.png)
+![](/images/imgur/QAFLi1V.png)
+![](/images/imgur/nuUrJfM.png)
+![](/images/imgur/goRaYL8.png)
 
 #### Underground digging and exploration
 
@@ -45,11 +45,11 @@ You can also get a first glimpse of a very dangerous place: the underground stat
 Keep in mind that these shots don't have the correct lighting and particles yet;
 everything will look better in the final version.
 
-![](https://i.imgur.com/UxjU5iY.gif)
-![](https://i.imgur.com/eMUpYto.gif)
-![](https://i.imgur.com/UBG6Sdr.gif)
-![](https://i.imgur.com/oKynkvM.gif)
-![](https://i.imgur.com/pUeaqyC.gif)
+![](/images/imgur/UxjU5iY.gif)
+![](/images/imgur/eMUpYto.gif)
+![](/images/imgur/UBG6Sdr.gif)
+![](/images/imgur/oKynkvM.gif)
+![](/images/imgur/pUeaqyC.gif)
 
 #### Sticky Wheels Update
 
@@ -61,12 +61,12 @@ They will most likely have a pink/purple-colored goo by default instead of the y
 We are also looking into letting you paint them in other colors.
 Currently, the Sticky Wheels are using chemicals as a resource, but we are still testing them out, so we can get the perfect balance between consumption and use-time.
 
-![](https://i.imgur.com/X4j4VaZ.gif)
-![](https://i.imgur.com/Keg99vJ.gif)
-![](https://i.imgur.com/c7pNN33.gif)
-![](https://i.imgur.com/9fenvzQ.gif)
-![](https://i.imgur.com/3SlhSzK.png)
-![](https://i.imgur.com/CxfDTme.png)
+![](/images/imgur/X4j4VaZ.gif)
+![](/images/imgur/Keg99vJ.gif)
+![](/images/imgur/c7pNN33.gif)
+![](/images/imgur/9fenvzQ.gif)
+![](/images/imgur/3SlhSzK.png)
+![](/images/imgur/CxfDTme.png)
 
 #### Cablebot Update
 The Cablebots are really starting to shape up.
@@ -76,9 +76,9 @@ Other times, they might simply leech off your battery or fuel resources.
 You'd better slap them off your creations before they start piling up;
 that's when they're going to do some real damage!
 
-![](https://i.imgur.com/TkGHjex.png)
-![](https://i.imgur.com/yhTfbs9.png)
-![](https://i.imgur.com/UkB1nNq.png)
+![](/images/imgur/TkGHjex.png)
+![](/images/imgur/yhTfbs9.png)
+![](/images/imgur/UkB1nNq.png)
 
 #### Battery Generator
 
@@ -89,7 +89,7 @@ But if you'd rather save time, you can also create a gas engine-powered arm that
 We plan to introduce more interactive parts in the future, with new, creative ways to interact with like this one.
 We cant wait to see how these types of parts will spark your creativity!
 
-![](https://i.imgur.com/cUFEF6L.png)
+![](/images/imgur/cUFEF6L.png)
 
 #### Digital Signs
 We finally got around to adding digital signs. In late-game Survival, you often end up with a lot of chests.
@@ -97,7 +97,7 @@ These signs will let you label things so that they are easier to find.
 Not just that, but they can also be used to leave a message and help decorate your creations. 
 They come in 3 sizes, with a selection of customizable screen and text colors!
 
-![](https://i.imgur.com/j4SaTNJ.gif)
+![](/images/imgur/j4SaTNJ.gif)
 
 #### Wedge Update
 Shoutout to the wedge gang!
@@ -106,21 +106,21 @@ It's a different system from the simple block scaling.
 But we will keep testing things out and hopefully, we'll find a good way that works in Survival.
 The wedges will be included in the next Chapter.
 
-![](https://i.imgur.com/R6nwAvN.png)
-![](https://i.imgur.com/8B4bMMq.png)
+![](/images/imgur/R6nwAvN.png)
+![](/images/imgur/8B4bMMq.png)
 
 #### Plasma Saw
 Introducing the Plasma Saw: the saw that is sharp enough to go through trees like butter and even cut through crystal rocks!
 But why stop there? The Plasma Saw can also be used to boost your creations' defenses against those pesky bots.
 
-![](https://i.imgur.com/JHdJekr.png)
-![](https://i.imgur.com/VQufYwZ.png)
+![](/images/imgur/JHdJekr.png)
+![](/images/imgur/VQufYwZ.png)
 
 #### NPC's
 The next chapter will feature a few new NPCs that you will get to interact with.
 Here is a first look at two of them!
 
-![](https://i.imgur.com/jJMexEg.png)
+![](/images/imgur/jJMexEg.png)
 
 #### Fancy Tuxedo
 New outfit time!

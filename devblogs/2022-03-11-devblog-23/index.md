@@ -20,13 +20,13 @@ We'll start with something that we've been working on for the next chapter, then
 <!--truncate-->
 Enjoy!
 
-![](https://i.imgur.com/8X5v78L.gif)
-![](https://i.imgur.com/pRJx2Qh.gif)
-![](https://i.imgur.com/2ZE7WOn.gif)
-![](https://i.imgur.com/ZYveizo.gif)
-![](https://i.imgur.com/4bZWq15.gif)
-![](https://i.imgur.com/8x7mIUs.png)
-![](https://i.imgur.com/wlKDlhW.png)
+![](/images/imgur/8X5v78L.gif)
+![](/images/imgur/pRJx2Qh.gif)
+![](/images/imgur/2ZE7WOn.gif)
+![](/images/imgur/ZYveizo.gif)
+![](/images/imgur/4bZWq15.gif)
+![](/images/imgur/8x7mIUs.png)
+![](/images/imgur/wlKDlhW.png)
 
 #### Turret Seat
 A big chapter update is coming and with it come new, interactive parts: for this one, we are excited to reveal the new Turret Seat! 
@@ -35,8 +35,8 @@ This new part lets you drive like a normal seat while also allowing you to freel
 These are just a few examples of all the ways you can use the Turret Seat.
 We had a ton of fun testing this new seat and we're confident that you will have a blast using it as well.
 
-![](https://i.imgur.com/Eyi0QYH.png)
-![](https://i.imgur.com/vjvcL6o.png)
+![](/images/imgur/Eyi0QYH.png)
+![](/images/imgur/vjvcL6o.png)
 
 #### Sawbot
 We are showing off a few new helper bots in this dev blog, but this one is our new favorite. 
@@ -44,25 +44,25 @@ Previously, we revealed that wedges are finally coming to Scrap Mechanic.
 If you're looking to get wedges in survival, you will need to get your hands on this aggressive assistant! 
 Just feed it any type of blocks you want and the sawbot will cut them in to perfect scalable wedges.
 
-![](https://i.imgur.com/bxUnQGJ.png)
-![](https://i.imgur.com/mVGqkCz.png)
-![](https://i.imgur.com/5C1EJvJ.png)
-![](https://i.imgur.com/1BJIpoK.png)
+![](/images/imgur/bxUnQGJ.png)
+![](/images/imgur/mVGqkCz.png)
+![](/images/imgur/5C1EJvJ.png)
+![](/images/imgur/1BJIpoK.png)
 
 #### Secret underground locations
 A lot of work has been done on the new underground locations and we still have a few left to get done. 
 Here are some new places that we've been working on for the next chapter. 
 We can't go to much in to what they are so we leave it up to you to speculate for now. 
 
-![](https://i.imgur.com/lFLxIYB.png)
+![](/images/imgur/lFLxIYB.png)
 
 #### Multi-component kit
 Whether you're looking to upgrade your gear to top-tier quality or craft some of the new items that you'll find underground, you are going to need better component kits. 
 Introducing the new multi-component kit, created to help you get the highest quality stuff that Survival mode has to offer!
 
-![](https://i.imgur.com/t7AwaJt.png)
-![](https://i.imgur.com/R4rpoI2.jpg)
-![](https://i.imgur.com/EATWMhB.png)
+![](/images/imgur/t7AwaJt.png)
+![](/images/imgur/R4rpoI2.jpg)
+![](/images/imgur/EATWMhB.png)
 
 #### Ore Collector & Crusher
 The underground is filled with all kinds of new ore, containing the rare and precious metals you're going to need for all your crafting and upgrading needs. 
@@ -71,15 +71,15 @@ The Ore Collector will gather rocks that you will mine underground and when it's
 By crushing the rocks into fine powder, the Crusher will allow you to extract those precious rare materials, like gold. 
 Want a sneak peek of both? Take a look at these screenshots!
 
-![](https://i.imgur.com/k4RsjiO.gif)
-![](https://i.imgur.com/PsspDya.gif)
+![](/images/imgur/k4RsjiO.gif)
+![](/images/imgur/PsspDya.gif)
 
 #### Trashbot Update
 We haven't talked about this messy clanker for a long time, so we will keep this short, so it doesn't stink up this devblog. 
 We were considering not even showing it off until release, but since many of you have been curious about our new enemy, here is a gif showing that he's alive and kicking, even if he's missing a few textures!
 
-![](https://i.imgur.com/ZGRiyzI.png)
-![](https://i.imgur.com/e8YM4zM.png)
+![](/images/imgur/ZGRiyzI.png)
+![](/images/imgur/e8YM4zM.png)
 
 #### Miner Outfit
 What would a Scrap Mechanic dev blog be without a new outfit reveal! 
@@ -91,15 +91,15 @@ It includes a mix of new content, along with several improvements that we think 
 We aim to have this out around May this year. 
 Keep on reading to find out about some of the things that will be included!
   
-![](https://i.imgur.com/S72bTaD.jpg)
-![](https://i.imgur.com/ssWEsfG.jpg)
-![](https://i.imgur.com/FxzuEfD.jpg)
+![](/images/imgur/S72bTaD.jpg)
+![](/images/imgur/ssWEsfG.jpg)
+![](/images/imgur/FxzuEfD.jpg)
 
 #### Challenge Mode
 Challenge mode is getting an additional 10 new awesome challenges that will conclude the Master Mechanic Trials. 
 Complete the final challenge to be rewarded with a very special outfit that will prove you've got the chops of a true Mechanic!
 
-![](https://i.imgur.com/w8BvI7H.gif)
+![](/images/imgur/w8BvI7H.gif)
 
 #### Bots in Challenge Mode Builder
 The Challenge Mode builder will be getting some love with the addition of bot spawner blocks, letting you create fun and engaging custom challenges that include bots. 
@@ -107,8 +107,8 @@ But why stop there?
 Push the limits of this new option and make your own game (we recommend a shooter). 
 We can't wait to see what this addition will let you come up once it's out.
 
-![](https://i.imgur.com/6T17LPD.gif)
-![](https://i.imgur.com/n0K7oEf.gif)
+![](/images/imgur/6T17LPD.gif)
+![](/images/imgur/n0K7oEf.gif)
 
 #### Survival mode tutorial
 New players might have a hard time when starting Survival mode. 
@@ -119,7 +119,7 @@ The beginning of the game now includes a series of quests that teach you the bas
 We have been working on a set of new tools for the next chapter: one of them is the cinematic camera tool that lets us create cutscenes.
 We will be using this tool in Survival Mode as well as in Challenge Mode for this next update!
 
-![](https://i.imgur.com/nt0LERS.gif)
+![](/images/imgur/nt0LERS.gif)
 
 #### Optimizations
 We get a lot of optimization requests and we always try to deliver, while also balancing our time with developing the new content. 
@@ -151,4 +151,4 @@ That's it for this dev blog.
 
 Stay Creative!
 
-![](https://i.imgur.com/969Ed1Z.gif)
+![](/images/imgur/969Ed1Z.gif)

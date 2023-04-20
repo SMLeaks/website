@@ -19,17 +19,17 @@ It's been a little while since we last parked our construction diggers to publis
 <!--truncate-->
 Today's update includes exciting new details on Survival Mode, reworked guns and how terrain will work in future versions. Read on for the details - and thanks for playing!
 
-![](https://i.imgur.com/zD6GQWY.png)
-![](https://i.imgur.com/Z6w7uL2.png)
-![](https://i.imgur.com/44Iqgrt.png)
+![](/images/imgur/zD6GQWY.png)
+![](/images/imgur/Z6w7uL2.png)
+![](/images/imgur/44Iqgrt.png)
 
 #### Enter the Scrapyard
 
 Say hello to the massive Scrapyard biome we've been building for Survival Mode!
 Once the largest farming settlement on the entire planet, the Scrapyard has since been choked by untold tons of scrap and garbage that has accumulated. With enormous bots pushing rubble around and stacking scrap in sky high pillars of junk, the Scrapyard will be a great place for scavenging parts and resources. But be alert... It's also not very safe!
 
-![](https://i.imgur.com/hAEWFt4.png)
-![](https://i.imgur.com/X9a1lnB.gif)
+![](/images/imgur/hAEWFt4.png)
+![](/images/imgur/X9a1lnB.gif)
 
 #### Adjust Your Arsenal
 
@@ -37,9 +37,9 @@ In our last dev blog we showed off the Spud Gun for the very first time. Since t
 We're happy to confirm that the team is currently reworking spud guns so that players can personalize and improve them from many different parts (see a few below!) We are also tweaking the trajectory of potatoes based on your feedback. Should they have a range limit? How much falloff should they have? Let us know what you think in the comments!
 
 
-![](https://i.imgur.com/ReJklaP.png) 
-![](https://i.imgur.com/2sbhrC2.gif)
-![](https://i.imgur.com/sMJQ0QQ.gif)
+![](/images/imgur/ReJklaP.png) 
+![](/images/imgur/2sbhrC2.gif)
+![](/images/imgur/sMJQ0QQ.gif)
 
 #### Survival mode terrain
 
@@ -48,7 +48,7 @@ In Survival Mode, the entire terrain will be built from tiles made in our terrai
 Thanks to randomly generated terrain, in Survival Mode players will explore beautiful worlds unique to their experience. We can't wait for you to explore them yourself!
 Keep in mind that this is just a tech demo and not how the actual final terrain will look. It will have a lot more variation and cool places to explore. 
 
-![](https://i.imgur.com/HphDMLG.png)
+![](/images/imgur/HphDMLG.png)
 
 #### Tile Styles
 
@@ -59,7 +59,7 @@ When the new Terrain Editor is released, players will be able to place trees, ro
 
 In visual spit 'n' polish news, we finally got around to improving our level of detail system to make it run a lot smoother. In the current game you might have noticed that trees and rocks can pop as you get closer to them - this is because more detailed models are getting spawned in. In future versions, we've made the transition between models nearly unnoticeable, making walking and driving a much nicer experience. 
 
-![](https://i.imgur.com/ECGnUas.png)
+![](/images/imgur/ECGnUas.png)
 
 #### Tee-riffic
 

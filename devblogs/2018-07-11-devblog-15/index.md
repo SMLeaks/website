@@ -19,9 +19,9 @@ The chime of your doorbell announces the arrival of our latest, delicious Scrap 
 Our expert chefs have prepared this one with extra special care, and we think you'll agree we've supplied some tasty toppings indeed! 
 <!--truncate-->
 
-![](https://i.imgur.com/4Lh5rFD.png)
-![](https://i.imgur.com/TUEFJb1.gif)
-![](https://i.imgur.com/xibbZFA.gif)
+![](/images/imgur/4Lh5rFD.png)
+![](/images/imgur/TUEFJb1.gif)
+![](/images/imgur/xibbZFA.gif)
 
 #### The Saw Blade
 
@@ -31,9 +31,9 @@ These are just some of the things Mechanics will have to keep in mind when build
 Place the Saw Blade on a bearing, crank the engine up to max and aim for a tree or rock to slice it like a pepperoni pizza. It will look a lot better when it's completely done. 
 We also hear that Farmbots are not big fans of these blades... But more on that later!
 
-![](https://i.imgur.com/rlwXrUF.png)
-![](https://i.imgur.com/sjdfPeo.gif)
-![](https://i.imgur.com/xJc9HmG.gif)
+![](/images/imgur/rlwXrUF.png)
+![](/images/imgur/sjdfPeo.gif)
+![](/images/imgur/xJc9HmG.gif)
 
 #### Shake the Room
 
@@ -44,9 +44,9 @@ Another interesting feature to note is how the Explosive Canisters deal differen
 Important note: Please make sure you save your creations before playing with these dangerous toys! There won't be much left if they go off near your lovely new toy... especially if they're chained! 
 We hope to add these to Creative mode in the next update. Boom!
 
-![](https://i.imgur.com/RGYaXzO.png) 
-![](https://i.imgur.com/6MjTCr2.png)
-![](https://i.imgur.com/n9iPmkt.png)
+![](/images/imgur/RGYaXzO.png) 
+![](/images/imgur/6MjTCr2.png)
+![](/images/imgur/n9iPmkt.png)
 
 #### Challenge mode
 
@@ -57,9 +57,9 @@ One such discovery recently resulted in the creation of Challenge Mode, a series
 Each challenge starts by giving the player a few parts from a chest. You'll then be tasked with building something with said parts to overcome an obstacle, such as pushing a large ball through a maze without losing it. These challenges will separate the mechanics from the... erm, non-mechanics.
 It will also be possible for modders to create and upload their own Challenges for other players to try, or even entirely new gameplay modes. It's an exciting addition that we think demonstrates the smart approach we're trying to take with the development of Scrap Mechanic... and it's a lot of fun too!
 
-![](https://i.imgur.com/2Z27w0H.png) 
-![](https://i.imgur.com/ze8EGgI.gif)
-![](https://i.imgur.com/XGQmw2m.gif)
+![](/images/imgur/2Z27w0H.png) 
+![](/images/imgur/ze8EGgI.gif)
+![](/images/imgur/XGQmw2m.gif)
 
 #### Open World Roads
 
@@ -68,8 +68,8 @@ After much toil and moil, our team of engineers have managed to create a system 
 We're very proud of how this new road and terrain technology turned out. It's a genuinely unique system that results in interesting scenarios and tons of fun highways that will have you speeding through forests, valleys and points of interest.
 Keep in mind that the images are from our test and do not represent the look of the final Survival mode terrain. 
 
-![](https://i.imgur.com/khmfP72.png) 
-![](https://i.imgur.com/9AcT58b.png)
+![](/images/imgur/khmfP72.png) 
+![](/images/imgur/9AcT58b.png)
 
 #### Frigid Farmers
 
@@ -77,15 +77,15 @@ What would you do if a bunch of murderous Farmbots suddenly ran wild on your pat
 Those cowedly farm folk didn't manage to escape the planet after the robo-uprising, and so now they cower inside their hideouts built from scraps and makeshift barricades.
 Luckily, there are plenty of heroic mechanics like you, ready to show up and supply them with food and other items in exchange for rare parts and trinkets. Just be prepared: they sometimes request the most ridiculous things!
 
-![](https://i.imgur.com/jHecD4W.png)
+![](/images/imgur/jHecD4W.png)
 
 #### Woc's Up
 
 Recently we've been having a fun old time adding new animals to the Scrap Mechanic world. Our latest farmyard creation is this chap below, the fantastical Woc! (That's right: Woc.) These bizarre space cows were originally the source of the milk production in the Scrap Mechanic world... before the Farmbots went Chicken Oriental and sent the Wocs scattering across the wild.
 We suspect the kind-natured Wocs will inevitably be bullied by the more masochistic Mechanics among you when Survival Mode comes out. Luckily, we've given them appropriate AI so they can run for their lives.
 
-![](https://i.imgur.com/k1RxZy3.png)
-![](https://i.imgur.com/6IqZz3f.png)
+![](/images/imgur/k1RxZy3.png)
+![](/images/imgur/6IqZz3f.png)
 
 #### Be-Ware
 
@@ -95,13 +95,13 @@ These warehouses are extremely dangerous and only the most well prepared and ski
 the scenes we've been quietly creating a completely new warehouse robot that will lead to more than a few heated moments when you stumble upon it. We will introduce him on our Twitter as soon as he's done, so make sure to follow us there! 
 And while we're on the subject of robots...
 
-![](https://i.imgur.com/6Srfe1f.jpg)
+![](/images/imgur/6Srfe1f.jpg)
 
 #### Paint Job
 
 Since we've recently been updating the visuals in Survival Mode we've also gone back to give the farmbots some visual love... even if they don't deserve it! You'll notice that we've changed some elements completely and given them much nicer texture work.
 
-![](https://i.imgur.com/vK8GtTm.png)
+![](/images/imgur/vK8GtTm.png)
 
 #### Weldin' Time
 

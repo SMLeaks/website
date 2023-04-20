@@ -25,7 +25,7 @@ Now, let's take a look together at some exciting new stuff...
 
 ![](./spudgun.png)
 ![](./spudgun-pics.png)
-![](http://i.imgur.com/NfQjdVI.gif)
+![](/images/imgur/NfQjdVI.gif)
 
 #### Spud Guns!
 
@@ -53,8 +53,8 @@ Today we're delighted to share a snippet of one of the Survival night tunes, whi
 
 [LISTEN HERE](https://soundcloud.com/axolotgames/scrap-mechanic-night-time-teaser)
 
-![](http://i.imgur.com/Ya7l9vE.gif)
-![](http://i.imgur.com/CoSqdkG.gif)
+![](/images/imgur/Ya7l9vE.gif)
+![](/images/imgur/CoSqdkG.gif)
 
 #### New Animation!
 
@@ -65,7 +65,7 @@ Since the last dev blog we've been quietly working on fresh animations to improv
 
 As you can see, we also changed the standing pose to a slightly more heroic stance. Inspiring stuff, we're sure you'll agree!
 
-![](http://i.imgur.com/UXuX5fa.gif)
+![](/images/imgur/UXuX5fa.gif)
 
 Oh! and we will let this one be a hint.
 
@@ -91,7 +91,7 @@ As many of you know, alongside Survival Mode we will be adding outfits for the n
 
 ![](./birddevlog01jpg.jpg)
 
-![](http://i.imgur.com/Sp7GpHK.gif)
+![](/images/imgur/Sp7GpHK.gif)
 
 #### Wildlife!
 

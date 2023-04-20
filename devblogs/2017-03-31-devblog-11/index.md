@@ -68,8 +68,8 @@ We all know that there's nothing better than that feeling of rocking a fresh new
 Now that we have our shiny new engine in place, we can focus on making Scrap Mechanic run as smoothly as possible. As well as tweaking the engine to help you all get even better frame rates, we will also be updating the game so that bearings that aren't moving will freeze. This should make creations with a lot of bearings run much smoother, hopefully making Scrap Mechanic even more fun. For us we're always working on improving the game, whether that's through tweaks, new content and even huge undertakings like Survival. As you can probably imagine, Scrap Mechanic is a pretty complex game to work on thanks to its unique physics and growing multiplayer component. Juggling the creation of a new mode, constant new content AND multiple tweaks takes a fair amount of time, but we're almost there. The team's working incredibly hard to get these optimization tweaks out to you soon, so thanks for being patient!
 
 
-![](http://i.imgur.com/bvKHOKr.gif)
-![](http://i.imgur.com/oXp2Ls3.gif)
+![](/images/imgur/bvKHOKr.gif)
+![](/images/imgur/oXp2Ls3.gif)
 
 #### Smoking hot particles
 

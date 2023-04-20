@@ -67,7 +67,7 @@ As the ancient saying goes, with great beard comes great responsibility. You're 
 Ahh, the new engine is making all our fixes so much smoother already, we can't tell you how happy we are about all of this! This time, it's freeing us up to focus a bit more on showing our beloved suspension a little extra love.
 Your feedback has led us to throw in a resistance slider to the suspension function. Some creations are incredibly heavy, and do nothing but instantly squash the suspension, so now it's possible to adjust the resistance to handle different weights. We're also fixing up the possibility for you to be able to add color to your suspension using the paint tool, which wasn't previously an option.
 
-![](http://i.imgur.com/acgu0CF.gif)
+![](/images/imgur/acgu0CF.gif)
 
 #### Particle Engine for the Modders!
   

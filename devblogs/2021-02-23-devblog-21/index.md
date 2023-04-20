@@ -18,8 +18,8 @@ authors: kacper
 New devblog, coming through! This time, we want to focus on a few things that are coming up in the not-too-distant future and also show a few new things that are in the works for the next survival chapter.
 <!--truncate-->
 
-![](https://i.imgur.com/79rENKJ.png)
-![](https://i.imgur.com/gHcxGrZ.png)
+![](/images/imgur/79rENKJ.png)
+![](/images/imgur/gHcxGrZ.png)
 
 #### Cablebot
 
@@ -28,15 +28,15 @@ There are more bots incoming in the next chapter: While traveling deep undergrou
 No one knows why the cablebots are that deep in the first place yet; perhaps you will find the answer to this mystery in a future update. 
 Until then, you had best prep some chests with potatoes and dust off that spudgun; you're going to need it.
 
-![](https://i.imgur.com/dKz9eIc.png)
+![](/images/imgur/dKz9eIc.png)
 #### Quest are coming
 
 Progress on the new quest system for the next chapter is moving along.
 The quests in the chapter will guide you through the story while letting you continue playing at your own pace. We will also be adding a dialogue system to the game, letting NPCS talk to you! We love how it feels and where it's heading. 
 Here is an image of the player taking an incoming call.
 
-![](https://i.imgur.com/goVJ8od.png)
-![](https://i.imgur.com/hVFr3UH.png)
+![](/images/imgur/goVJ8od.png)
+![](/images/imgur/hVFr3UH.png)
 
 #### Digital clock
 
@@ -45,10 +45,10 @@ The next chapter will introduce a clock, so mechanics can check the time, anytim
 But that's not the best part about it: the clock will also allow the mechanic to set a specific time for it to interact with a trigger. 
 Thanks to it, you should be able to set a time for your base defenses to turn on or off, so you can keep those uninvited nighttime visitors away!
 
-![](https://i.imgur.com/DAgT4vV.png)
-![](https://i.imgur.com/x1Aga7h.png)
-![](https://i.imgur.com/GGVmwKz.png)
-![](https://i.imgur.com/nJq4upc.png)
+![](/images/imgur/DAgT4vV.png)
+![](/images/imgur/x1Aga7h.png)
+![](/images/imgur/GGVmwKz.png)
+![](/images/imgur/nJq4upc.png)
 
 #### Creative mode update
 
@@ -59,8 +59,8 @@ We also updated the flat world ground texture, since the old one was a bit out o
 We have also slightly increased the map size of both the terrain as well as flat world. 
 You will have to create a new world to get the updated terrain however. The new props and water will not show up in old worlds. 
 
-![](https://i.imgur.com/Tcd3L8e.png)
-![](https://i.imgur.com/lVA3W7b.png)
+![](/images/imgur/Tcd3L8e.png)
+![](/images/imgur/lVA3W7b.png)
 
 #### Decorate the main menu
 
@@ -68,8 +68,8 @@ Some mechanics might have been wondering about that odd background platform that
 We're finally putting it to its intended, original use: mechanics will now be able to enter that world so they can build and decorate their main menu, simply by clicking the blue pen icon at the bottom. 
 Let's make some neat pixel art! 
 
-![](https://i.imgur.com/KTX4NRO.png)
-![](https://i.imgur.com/GEZkT7M.png)
+![](/images/imgur/KTX4NRO.png)
+![](/images/imgur/GEZkT7M.png)
 
 #### Enemy capsules
 
@@ -80,8 +80,8 @@ Now, you can paint bots in different colors, so they turn on each other instead.
 For example: if you spawn two tape bots and paint one yellow and the other pink, they'll duke it out instead of coming after you! 
 Lastly! Woc's and glowbugs will also get a capsule. The capsules will come with the new creative mode update. 
 
-![](https://i.imgur.com/EQkchWp.png)
-![](https://i.imgur.com/QASRL32.png)
+![](/images/imgur/EQkchWp.png)
+![](/images/imgur/QASRL32.png)
 
 #### Interactive tutorial part
 

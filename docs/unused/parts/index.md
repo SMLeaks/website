@@ -47,6 +47,6 @@ id: parts
 ![](./early-spaceship-door.png)
 
 ### Half Pipe
-> Image by Red Gal
+> Image by The Quarker
 
 ![](./half-pipe.png)

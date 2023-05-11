@@ -42,7 +42,7 @@ id: parts
 ![](./env_building_fluorescentlight.png)
 
 ### Early Spaceship Door
-> Found by Red Gal
+> Found by The Quarker
 
 ![](./early-spaceship-door.png)
 

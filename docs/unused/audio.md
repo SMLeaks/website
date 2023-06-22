@@ -6,91 +6,55 @@ id: audio
 
 ## NPE
 ### NPE_Turret_Activate
-<audio controls>
-    <source src="/audio/NPE_Turret_Activate.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/NPE_Turret_Activate.wav" />
 
 ### NPE_Drone_Shoot
-<audio controls>
-  <source src="/audio/NPE_Drone_Shoot.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/NPE_Drone_Shoot.wav" />
 
 ## Moving Water
 ### water_movement_big
-<audio controls>
-  <source src="/audio/water_movement_big.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/water_movement_big.wav" />
 
 ### water_movement_small
-<audio controls>
-  <source src="/audio/water_movement_small.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/water_movement_small.wav" />
 
 ## Caves
 > Confirmed in [Devblog 20](/devblog/20#going-underground)
 
 ### amb_2D_cave_base
-<audio controls>
-  <source src="/audio/amb_2D_cave_base.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/amb_2D_cave_base.wav" />
 
 ### amb_2D_cave_waterdrip_intense
-<audio controls>
-  <source
-    src="/audio/amb_2D_cave_waterdrip_intense.wav"
-    type="audio/wav"
-  />
-</audio>
+<audio controls src="/audio/amb_2D_cave_waterdrip_intense.wav" />
 
 ### amb_2D_cave_waterdrip_single
-<audio controls>
-  <source
-    src="/audio/amb_2D_cave_waterdrip_single.wav"
-    type="audio/wav"
-  />
-</audio>
+<audio controls src="/audio/amb_2D_cave_waterdrip_single.wav" />
 
 ## Digital Clock Alarms
 > Possibly from [Devblog 21](/devblog/21#digital-clock)
 
 ### alarm01
-<audio controls>
-  <source src="/audio/alarm01.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/alarm01.wav" />
 
 ### alarm02
-<audio controls>
-  <source src="/audio/alarm02.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/alarm02.wav" />
 
 ### alarm03
-<audio controls>
-  <source src="/audio/alarm03.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/alarm03.wav" />
 
 ### alarm04
-<audio controls>
-  <source src="/audio/alarm04.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/alarm04.wav" />
 
 ## Other
 ### encrypter_on
-<audio controls>
-  <source src="/audio/encrypter_on.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/encrypter_on.wav" />
 
 ### encrypter_off
 
-<audio controls>
-  <source src="/audio/encrypter_off.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/encrypter_off.wav" />
 
 ### spudgun_reload
-<audio controls>
-  <source src="/audio/spudgun_reload.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/spudgun_reload.wav" />
 
 ### Battle Theme Mastered Looping Full
-<audio controls>
-  <source src="/audio/Battle_Theme_Mastered_Looping_Full.wav" type="audio/wav" />
-</audio>
+<audio controls src="/audio/Battle_Theme_Mastered_Looping_Full.wav" />

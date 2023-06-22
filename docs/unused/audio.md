@@ -57,4 +57,4 @@ id: audio
 <audio controls src="/audio/spudgun_reload.wav" />
 
 ### Battle Theme Mastered Looping Full
-<audio controls src="/audio/Battle_Theme_Mastered_Looping_Full.wav" />
+<audio controls src="/audio/Battle_Theme_Mastered_Looping_Full.mp3" />

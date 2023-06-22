@@ -40,31 +40,6 @@ id: tiles
 ![](./unused-asset-icons/f6c3542c-8c23-44d9-b51a-a55c48a9d312.png)
 ![](./unused-asset-icons/f6cf1aa1-ee0c-4904-ae8f-0701071940c6.png)
 
-### Hidden Node Icons
-> Found by Red Gal
-
-:::note
-Added in 0.6.0
-:::
-
-![](./hidden-node-icons/AreaTriggerIcon.png)
-![](./hidden-node-icons/ChemicalsIcon.png)
-![](./hidden-node-icons/EffectIcon.png)
-![](./hidden-node-icons/EmptyIcon.png)
-![](./hidden-node-icons/EpicLootCrateIcon.png)
-![](./hidden-node-icons/FarmbotIcon.png)
-![](./hidden-node-icons/FireIcon.png)
-![](./hidden-node-icons/FlattenIcon.png)
-![](./hidden-node-icons/GlowgorpIcon.png)
-![](./hidden-node-icons/PlayerSpawnIcon.png)
-![](./hidden-node-icons/ReflectionIcon.png)
-![](./hidden-node-icons/TapebotIcon.png)
-![](./hidden-node-icons/TotebotGreenIcon.png)
-![](./hidden-node-icons/VectorIcon.png)
-![](./hidden-node-icons/WaterIcon.png)
-![](./hidden-node-icons/WaypointIcon.png)
-![](./hidden-node-icons/WocIcon.png)
-
 ### Unused "GAS" Nodes
 > Found by Dart Frog
 

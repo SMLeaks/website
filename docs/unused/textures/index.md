@@ -5,17 +5,14 @@ id: textures
 ---
 
 ### Outfit Package Unused Textures
-> Found by Turbo Biscuit
 
 ![](./outfitpackge.png)
 
 ### Dead Duck
-> Found by Turbo Biscuit
 
 ![](./deadduckhead.png)
 
 ### Mechanic Station Billboard Unused Alt Texture
-> Found by Turbo Biscuit
 
 ![](./mechanicstationbillboardalt.png)
 
@@ -25,7 +22,7 @@ id: textures
 ![](./old-warehouse-key.png)
 
 ### Unused Tile Editor Icons
-> Found by Red Gal, Turbo Biscuit and Dart Frog
+> Found by Red Gal and Dart Frog
 
 
 > `placeholder`

@@ -5,7 +5,6 @@ id: particles
 ---
 
 ### Encryptor Turn On
-> Found by Turbo Biscuit
 
 ![](./encryptorblast.png)
 

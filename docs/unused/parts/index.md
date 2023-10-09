@@ -5,13 +5,13 @@ id: parts
 ---
 
 ### Plastic Pumpkin
-> Found by Turbo Biscuit, Files from Technologic Nick, Rendered by Charging Turnip
+> Files from Technologic Nick, Rendered by Charging Turnip
 
 ![](./pumpkin_front.png)
 ![](./pumpkin_back.png)
 
 ### Piston 2
-> Found by Turbo Biscuit, Image by IvanCoHe
+> Image by IvanCoHe
 
 ![](./piston2.png)
 

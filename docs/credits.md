@@ -4,7 +4,6 @@ id: credits
 sidebar_position: 5
 ---
 
-* [Turbo Biscuit](https://trbo.dev) - Creator and Maintainter of SMLeaks
 * IvanCoHe - OG Survival Predictionist
 * Charging Turnip - Rendered the [SMLeaks Logo](/logbook/items#log-items)
 * [Technologic Nick](https://github.com/technologicnick) - Found the files for the [Plastic Pumpkin](/unused/parts#plastic-pumpkin)

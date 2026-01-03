@@ -41,7 +41,6 @@ The survival terrain has received a really big overhaul, and we finally got arou
 ![](./f4a09391b081980ba960180ac621cc2325446787.jpg)
 ![](./53cacf6139082677821a5a4eccb7628b52048c48.jpg)
 ![](./499e2f8c239f32786b6a56c3ee9239903931b675.jpg)
-![](./499e2f8c239f32786b6a56c3ee9239903931b675.jpg)
 ![](./5a8b5b817bd458028a8b1f7ec1d342e56ca82e27.jpg)
 ![](./a35784164c690bb8bf7db85b9d3f37b072925c24.gif)
 

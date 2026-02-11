@@ -15,11 +15,6 @@ id: pre-release
 
 ![](./mechanical.png)
 
-### Tiled Red Metal
-> Found by Dart Frog, Images by Red Gal
-
-![](./tiled-red-metal.png)
-
 ### Super Heavy Concrete
 > Found by Dart Frog, Images by Red Gal
 
@@ -49,11 +44,6 @@ id: pre-release
 > Found by Dart Frog, Images by Red Gal
 
 ![](./copper.png)
-
-### Galvanized Metal
-> Found by Dart Frog, Images by Red Gal
-
-![](./galvanized-metal.png)
 
 ### Taped Plaster
 > Found by Dart Frog, Images by Red Gal
